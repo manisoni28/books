@@ -1,0 +1,2919 @@
+[
+  {
+    "board": "cbse",
+    "language": "english",
+    "level": "class1",
+    "subject": "english",
+    "books": [
+      {
+        "name": "book 1",
+        "chapters": [
+          {
+            "name": " Flying Man",
+            "id": "10",
+            "url": "https://books.1guru.in/+english/ta2018100615388393901EnglishNCERTChapter10.pdf"
+          },
+          {
+            "name": " A Happy Child",
+            "id": "1",
+            "url": "https://books.1guru.in/+english/ta2018100615388391101EnglishNCERTChapter1.pdf"
+          },
+          {
+            "name": " After a Bath",
+            "id": "2",
+            "url": "https://books.1guru.in/+english/ta2018100615388391451EnglishNCERTChapter2.pdf"
+          },
+          {
+            "name": " One Little Kitten",
+            "id": "3",
+            "url": "https://books.1guru.in/+english/ta2018100615388391731EnglishNCERTChapter3.pdf"
+          },
+          {
+            "name": " Once I Saw a Little Bird",
+            "id": "4",
+            "url": "https://books.1guru.in/+english/ta2018100615388392071EnglishNCERTChapter4.pdf"
+          },
+          {
+            "name": " Merry-Go-Round",
+            "id": "5",
+            "url": "https://books.1guru.in/+english/ta2018100615388392401EnglishNCERTChapter5.pdf"
+          },
+          {
+            "name": " If I Were an Apple",
+            "id": "6",
+            "url": "https://books.1guru.in/+english/ta2018100615388392691EnglishNCERTChapter6.pdf"
+          },
+          {
+            "name": " A Kite",
+            "id": "7",
+            "url": "https://books.1guru.in/+english/ta2018100615388392961EnglishNCERTChapter7.pdf"
+          },
+          {
+            "name": " A Little Turtle",
+            "id": "8",
+            "url": "https://books.1guru.in/+english/ta2018100615388393261EnglishNCERTChapter8.pdf"
+          },
+          {
+            "name": " Clouds",
+            "id": "9",
+            "url": "https://books.1guru.in/+english/ta2018100615388393601EnglishNCERTChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "english",
+    "level": "class1",
+    "subject": "hindi",
+    "books": [
+      {
+        "name": "book 1",
+        "chapters": [
+          {
+            "name": " पगड़ी",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388399121HindiNCERTChapter10.pdf"
+          },
+          {
+            "name": " पतंग",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388398761HindiNCERTChapter11.pdf"
+          },
+          {
+            "name": " गेंद-बल्ला",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388398451HindiNCERTChapter12.pdf"
+          },
+          {
+            "name": " बंदर गया खेत में भाग",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388398091HindiNCERTChapter13.pdf"
+          },
+          {
+            "name": " एक बुढ़िया",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388397801HindiNCERTChapter14.pdf"
+          },
+          {
+            "name": " मैं भी",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388397461HindiNCERTChapter15.pdf"
+          },
+          {
+            "name": " लालू और पीलू",
+            "id": "16",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388397091HindiNCERTChapter16.pdf"
+          },
+          {
+            "name": " चकई के चकदुम",
+            "id": "17",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388396741HindiNCERTChapter17.pdf"
+          },
+          {
+            "name": " छोटी का कमाल",
+            "id": "18",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388396391HindiNCERTChapter18.pdf"
+          },
+          {
+            "name": " चार चने",
+            "id": "19",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388396051HindiNCERTChapter19.pdf"
+          },
+          {
+            "name": " झूला",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388401851HindiNCERTChapter1.pdf"
+          },
+          {
+            "name": " भगदड़",
+            "id": "20",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388395671HindiNCERTChapter20.pdf"
+          },
+          {
+            "name": " हलीम चला चाँद पर",
+            "id": "21",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388395391HindiNCERTChapter21.pdf"
+          },
+          {
+            "name": " हाथी चल्लम चल्लम",
+            "id": "22",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388395041HindiNCERTChapter22.pdf"
+          },
+          {
+            "name": " सात पूँछ का चूहा",
+            "id": "23",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388394741HindiNCERTChapter23.pdf"
+          },
+          {
+            "name": " आम की कहानी",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388401561HindiNCERTChapter2.pdf"
+          },
+          {
+            "name": " आम की टोकरी",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388401291HindiNCERTChapter3.pdf"
+          },
+          {
+            "name": " पत्ते ही पत्ते",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388401031HindiNCERTChapter4.pdf"
+          },
+          {
+            "name": " पकौड़ी",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388400701HindiNCERTChapter5.pdf"
+          },
+          {
+            "name": " छुक-छुक गाड़ी",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388400411HindiNCERTChapter6.pdf"
+          },
+          {
+            "name": " रसोईघर",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388400011HindiNCERTChapter7.pdf"
+          },
+          {
+            "name": " चूहो! म्याऊँ सो रही है",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388399721HindiNCERTChapter8.pdf"
+          },
+          {
+            "name": " बंदर और गिलहरी",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/hindi/ta2018100615388399421HindiNCERTChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "english",
+    "level": "class1",
+    "subject": "maths",
+    "books": [
+      {
+        "name": "book 1",
+        "chapters": [
+          {
+            "name": " Patterns",
+            "id": "10",
+            "url": "https://books.1guru.in/maths/ta2018100615388372601MathsNCERTChapter10.pdf"
+          },
+          {
+            "name": " Numbers",
+            "id": "11",
+            "url": "https://books.1guru.in/maths/ta2018100615388372931MathsNCERTChapter11.pdf"
+          },
+          {
+            "name": " Money",
+            "id": "12",
+            "url": "https://books.1guru.in/maths/ta2018100615388373251MathsNCERTChapter12.pdf"
+          },
+          {
+            "name": " How Many",
+            "id": "13",
+            "url": "https://books.1guru.in/maths/ta2018100615388373561MathsNCERTChapter13.pdf"
+          },
+          {
+            "name": " Shapes and Space",
+            "id": "1",
+            "url": "https://books.1guru.in/maths/ta2018100615388367211MathsNCERTChapter1.pdf"
+          },
+          {
+            "name": " Numbers form One to Nine",
+            "id": "2",
+            "url": "https://books.1guru.in/maths/ta2018100615388368211MathsNCERTChapter2.pdf"
+          },
+          {
+            "name": " Addition",
+            "id": "3",
+            "url": "https://books.1guru.in/maths/ta2018100615388369981MathsNCERTChapter3.pdf"
+          },
+          {
+            "name": " Subtraction",
+            "id": "4",
+            "url": "https://books.1guru.in/maths/ta2018100615388370291MathsNCERTChapter4.pdf"
+          },
+          {
+            "name": " Number form Ten to Twenty",
+            "id": "5",
+            "url": "https://books.1guru.in/maths/ta2018100615388370661MathsNCERTChapter5.pdf"
+          },
+          {
+            "name": " Time",
+            "id": "6",
+            "url": "https://books.1guru.in/maths/ta2018100615388370971MathsNCERTChapter6.pdf"
+          },
+          {
+            "name": " Measurement",
+            "id": "7",
+            "url": "https://books.1guru.in/maths/ta2018100615388371351MathsNCERTChapter7.pdf"
+          },
+          {
+            "name": " Numbers form Twenty one to Fifty",
+            "id": "8",
+            "url": "https://books.1guru.in/maths/ta2018100615388371681MathsNCERTChapter8.pdf"
+          },
+          {
+            "name": " Data Handing",
+            "id": "9",
+            "url": "https://books.1guru.in/maths/ta2018100615388372001MathsNCERTChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "english",
+    "level": "class1",
+    "subject": "raindrops",
+    "books": [
+      {
+        "name": "book 1",
+        "chapters": [
+          {
+            "name": " Clap",
+            "id": "1",
+            "url": "https://books.1guru.in/+english/ta2018100615388386441EnglishRaindropsNCERTChapter1.pdf"
+          },
+          {
+            "name": " One",
+            "id": "2",
+            "url": "https://books.1guru.in/+english/ta2018100615388386781EnglishRaindropsNCERTChapter2.pdf"
+          },
+          {
+            "name": " The Little Bird",
+            "id": "3",
+            "url": "https://books.1guru.in/+english/ta2018100615388387091EnglishRaindropsNCERTChapter3.pdf"
+          },
+          {
+            "name": " Bubbles",
+            "id": "4",
+            "url": "https://books.1guru.in/+english/ta2018100615388387421EnglishRaindropsNCERTChapter4.pdf"
+          },
+          {
+            "name": " Chhotu",
+            "id": "5",
+            "url": "https://books.1guru.in/+english/ta2018100615388387811EnglishRaindropsNCERTChapter5.pdf"
+          },
+          {
+            "name": " Animals and Birds",
+            "id": "6",
+            "url": "https://books.1guru.in/+english/ta2018100615388388161EnglishRaindropsNCERTChapter6.pdf"
+          },
+          {
+            "name": " Fruits and Vegetables",
+            "id": "7",
+            "url": "https://books.1guru.in/+english/ta2018100615388388521EnglishRaindropsNCERTChapter7.pdf"
+          },
+          {
+            "name": " Who Am I?",
+            "id": "8",
+            "url": "https://books.1guru.in/+english/ta2018100615388388841EnglishRaindropsNCERTChapter8.pdf"
+          },
+          {
+            "name": " Hide and Seek",
+            "id": "9",
+            "url": "https://books.1guru.in/+english/ta2018100615388389201EnglishRaindropsNCERTChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "english",
+    "level": "class10",
+    "subject": "english",
+    "books": [
+      {
+        "name": "English - First Flight",
+        "chapters": [
+          {
+            "name": " The Sermon at Benares",
+            "id": "10",
+            "url": "https://books.1guru.in/+english/ta20181018153986868410EnglishNCERTFirstFlightChapter10.pdf"
+          },
+          {
+            "name": " The Proposal",
+            "id": "11",
+            "url": "https://books.1guru.in/+english/ta20181018153986864310EnglishNCERTFirstFlightChapter11.pdf"
+          },
+          {
+            "name": " A Letter to God",
+            "id": "1",
+            "url": "https://books.1guru.in/+english/ta20181018153986906910EnglishNCERTFirstFlightChapter1.pdf"
+          },
+          {
+            "name": " Nelson Mandela",
+            "id": "2",
+            "url": "https://books.1guru.in/+english/ta20181018153986902710EnglishNCERTFirstFlightChapter2.pdf"
+          },
+          {
+            "name": " Two Stories about Flying",
+            "id": "3",
+            "url": "https://books.1guru.in/+english/ta20181018153986899610EnglishNCERTFirstFlightChapter3.pdf"
+          },
+          {
+            "name": " From the Diary of Anne Frank",
+            "id": "4",
+            "url": "https://books.1guru.in/+english/ta20181018153986895810EnglishNCERTFirstFlightChapter4.pdf"
+          },
+          {
+            "name": " The Hundred Dresses–I",
+            "id": "5",
+            "url": "https://books.1guru.in/+english/ta20181018153986891910EnglishNCERTFirstFlightChapter5.pdf"
+          },
+          {
+            "name": " The Hundred Dresses–II",
+            "id": "6",
+            "url": "https://books.1guru.in/+english/ta20181018153986884310EnglishNCERTFirstFlightChapter6.pdf"
+          },
+          {
+            "name": " Glimpses of India",
+            "id": "7",
+            "url": "https://books.1guru.in/+english/ta20181018153986879410EnglishNCERTFirstFlightChapter7.pdf"
+          },
+          {
+            "name": " Mijbil the Otter",
+            "id": "8",
+            "url": "https://books.1guru.in/+english/ta20181018153986875610EnglishNCERTFirstFlightChapter8.pdf"
+          },
+          {
+            "name": " Madam Rides the Bus",
+            "id": "9",
+            "url": "https://books.1guru.in/+english/ta20181018153986871810EnglishNCERTFirstFlightChapter9.pdf"
+          }
+        ]
+      },
+      {
+        "name": "English - Foot Prints Without Feet",
+        "chapters": [
+          {
+            "name": " The Book That Saved the Earth",
+            "id": "10",
+            "url": "https://books.1guru.in/+english/ta20181018153986917810EnglishNCERTSupplimentryChapter10.pdf"
+          },
+          {
+            "name": " A Triumph of Surgery",
+            "id": "1",
+            "url": "https://books.1guru.in/+english/ta20181018153986950710EnglishNCERTSupplimentryChapter1.pdf"
+          },
+          {
+            "name": " The Thief’s Story",
+            "id": "2",
+            "url": "https://books.1guru.in/+english/ta20181018153986947010EnglishNCERTSupplimentryChapter2.pdf"
+          },
+          {
+            "name": " The Midnight Visitor",
+            "id": "3",
+            "url": "https://books.1guru.in/+english/ta20181018153986943910EnglishNCERTSupplimentryChapter3.pdf"
+          },
+          {
+            "name": " A Question of Trust",
+            "id": "4",
+            "url": "https://books.1guru.in/+english/ta20181018153986940410EnglishNCERTSupplimentryChapter4.pdf"
+          },
+          {
+            "name": " Footprints without Feet",
+            "id": "5",
+            "url": "https://books.1guru.in/+english/ta20181018153986936910EnglishNCERTSupplimentryChapter5.pdf"
+          },
+          {
+            "name": " The Making of a Scientist",
+            "id": "6",
+            "url": "https://books.1guru.in/+english/ta20181018153986932010EnglishNCERTSupplimentryChapter6.pdf"
+          },
+          {
+            "name": " The Necklace",
+            "id": "7",
+            "url": "https://books.1guru.in/+english/ta20181018153986928510EnglishNCERTSupplimentryChapter7.pdf"
+          },
+          {
+            "name": " The Hack Driver",
+            "id": "8",
+            "url": "https://books.1guru.in/+english/ta20181018153986924910EnglishNCERTSupplimentryChapter8.pdf"
+          },
+          {
+            "name": " Bholi",
+            "id": "9",
+            "url": "https://books.1guru.in/+english/ta20181018153986921510EnglishNCERTSupplimentryChapter9.pdf"
+          }
+        ]
+      },
+      {
+        "name": "Interact in English – Literature Reader",
+        "chapters": [
+          {
+            "name": " Ozymandias",
+            "id": "10",
+            "url": "https://books.1guru.in/+english/ta20181018153986580810EnglishLiteraturePoetryChapter4.pdf"
+          },
+          {
+            "name": " The Rime of the Ancient Mariner",
+            "id": "11",
+            "url": "https://books.1guru.in/+english/ta20181018153986576110EnglishLiteraturePoetryChapter5.pdf"
+          },
+          {
+            "name": " Snake",
+            "id": "12",
+            "url": "https://books.1guru.in/+english/ta20181018153986571810EnglishLiteraturePoetryChapter6.pdf"
+          },
+          {
+            "name": " Two Gentlemen Of Verona",
+            "id": "1",
+            "url": "https://books.1guru.in/+english/ta20181018153986629710EnglishLiteratureProseChapter1.pdf"
+          },
+          {
+            "name": " Mrs",
+            "id": "2",
+            "url": "https://books.1guru.in/+english/ta20181018153986626010EnglishLiteratureProseChapter2.pdf"
+          },
+          {
+            "name": " The Letter",
+            "id": "3",
+            "url": "https://books.1guru.in/+english/ta20181018153986621910EnglishLiteratureProseChapter3.pdf"
+          },
+          {
+            "name": " A Shady Plot",
+            "id": "4",
+            "url": "https://books.1guru.in/+english/ta20181018153986617910EnglishLiteratureProseChapter4.pdf"
+          },
+          {
+            "name": " Patol Babu",
+            "id": "5",
+            "url": "https://books.1guru.in/+english/ta20181018153986610210EnglishLiteratureProseChapter5.pdf"
+          },
+          {
+            "name": " Virtually True",
+            "id": "6",
+            "url": "https://books.1guru.in/+english/ta20181018153986601510EnglishLiteratureProseChapter6.pdf"
+          },
+          {
+            "name": " The Frog and the Nithtingale",
+            "id": "7",
+            "url": "https://books.1guru.in/+english/ta20181018153986598010EnglishLiteraturePoetryChapter1.pdf"
+          },
+          {
+            "name": " Mirror by Sylvia Plath",
+            "id": "8",
+            "url": "https://books.1guru.in/+english/ta20181018153986589210EnglishLiteraturePoetryChapter2.pdf"
+          },
+          {
+            "name": " Not Marble",
+            "id": "9",
+            "url": "https://books.1guru.in/+english/ta20181018153986585310EnglishLiteraturePoetryChapter3.pdf"
+          }
+        ]
+      },
+      {
+        "name": "Interact in English – Main Course Book (MCB)",
+        "chapters": [
+          {
+            "name": " Health and Medicine",
+            "id": "1",
+            "url": "https://books.1guru.in/+english/ta20181018153986767210EnglishMainCourseBookChapter1.pdf"
+          },
+          {
+            "name": " Education",
+            "id": "2",
+            "url": "https://books.1guru.in/+english/ta20181018153986764210EnglishMainCourseBookChapter2.pdf"
+          },
+          {
+            "name": " Science",
+            "id": "3",
+            "url": "https://books.1guru.in/+english/ta20181018153986760410EnglishMainCourseBookChapter3.pdf"
+          },
+          {
+            "name": " Environment",
+            "id": "4",
+            "url": "https://books.1guru.in/+english/ta20181018153986757210EnglishMainCourseBookChapter4.pdf"
+          },
+          {
+            "name": " Travel and Tourism",
+            "id": "5",
+            "url": "https://books.1guru.in/+english/ta20181018153986752810EnglishMainCourseBookChapter5.pdf"
+          },
+          {
+            "name": " National Integration",
+            "id": "6",
+            "url": "https://books.1guru.in/+english/ta20181018153986749410EnglishMainCourseBookChapter6.pdf"
+          }
+        ]
+      }
+    ]
+  },{
+  "board": "cbse",
+  "language": "english",
+  "level": "class10",
+  "subject": "maths",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Circles",
+          "id": "10",
+          "url": "https://books.1guru.in/maths/ta20181017153974702910MathsNcertchapter10.pdf"
+        },
+        {
+          "name": " Constructions",
+          "id": "11",
+          "url": "https://books.1guru.in/maths/ta20181017153974699510MathsNcertchapter11.pdf"
+        },
+        {
+          "name": " Area Related to Circles",
+          "id": "12",
+          "url": "https://books.1guru.in/maths/ta20181017153974696510MathsNcertchapter12.pdf"
+        },
+        {
+          "name": " Surface Areas and Volumes",
+          "id": "13",
+          "url": "https://books.1guru.in/maths/ta20181017153974693210MathsNcertchapter13.pdf"
+        },
+        {
+          "name": " Statistics",
+          "id": "14",
+          "url": "https://books.1guru.in/maths/ta20181017153974689910MathsNcertchapter14.pdf"
+        },
+        {
+          "name": " Probability",
+          "id": "15",
+          "url": "https://books.1guru.in/maths/ta20181017153974686510MathsNcertchapter15.pdf"
+        },
+        {
+          "name": " Real Numbers",
+          "id": "1",
+          "url": "https://books.1guru.in/maths/ta20181017153974729010MathsNcertchapter1.pdf"
+        },
+        {
+          "name": " Polynomials",
+          "id": "2",
+          "url": "https://books.1guru.in/maths/ta20181017153974726110MathsNcertchapter2.pdf"
+        },
+        {
+          "name": " Pair of Linear Equations in Two Variables",
+          "id": "3",
+          "url": "https://books.1guru.in/maths/ta20181017153974723110MathsNcertchapter3.pdf"
+        },
+        {
+          "name": " Quadratic Equations",
+          "id": "4",
+          "url": "https://books.1guru.in/maths/ta20181017153974720310MathsNcertchapter4.pdf"
+        },
+        {
+          "name": " Arithmetic Progression",
+          "id": "5",
+          "url": "https://books.1guru.in/maths/ta20181017153974717410MathsNcertchapter5.pdf"
+        },
+        {
+          "name": " Triangles",
+          "id": "6",
+          "url": "https://books.1guru.in/maths/ta20181017153974714610MathsNcertchapter6.pdf"
+        },
+        {
+          "name": " Coordinate Geometry",
+          "id": "7",
+          "url": "https://books.1guru.in/maths/ta20181017153974711710MathsNcertchapter7.pdf"
+        },
+        {
+          "name": " Introduction to Trigonometry",
+          "id": "8",
+          "url": "https://books.1guru.in/maths/ta20181017153974708710MathsNcertchapter8.pdf"
+        },
+        {
+          "name": " Some Applications of Trigonometry",
+          "id": "9",
+          "url": "https://books.1guru.in/maths/ta20181017153974706010MathsNcertchapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class10",
+  "subject": "science",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Light – Reflection and Refraction",
+          "id": "10",
+          "url": "https://books.1guru.in/science/ta20181018153986382410ScienceNcertchapter10.pdf"
+        },
+        {
+          "name": " Human Eye and Colourful World",
+          "id": "11",
+          "url": "https://books.1guru.in/science/ta20181018153986376510ScienceNcertchapter11.pdf"
+        },
+        {
+          "name": " Electricity",
+          "id": "12",
+          "url": "https://books.1guru.in/science/ta20181018153986373310ScienceNcertchapter12.pdf"
+        },
+        {
+          "name": " Magnetic Effects of Electric Current",
+          "id": "13",
+          "url": "https://books.1guru.in/science/ta20181018153986370510ScienceNcertchapter13.pdf"
+        },
+        {
+          "name": " Sources of Energy",
+          "id": "14",
+          "url": "https://books.1guru.in/science/ta20181018153986367910ScienceNcertchapter14.pdf"
+        },
+        {
+          "name": " Our Environment",
+          "id": "15",
+          "url": "https://books.1guru.in/science/ta20181018153986364310ScienceNcertchapter15.pdf"
+        },
+        {
+          "name": " Management of Natural Resources",
+          "id": "16",
+          "url": "https://books.1guru.in/science/ta20181018153986361110ScienceNcertchapter16.pdf"
+        },
+        {
+          "name": " Chemical Reactions and Equations",
+          "id": "1",
+          "url": "https://books.1guru.in/science/ta20181018153986409910ScienceNcertchapter1.pdf"
+        },
+        {
+          "name": " Acids",
+          "id": "2",
+          "url": "https://books.1guru.in/science/ta20181018153986407110ScienceNcertchapter2.pdf"
+        },
+        {
+          "name": " Metals and Non-Metals",
+          "id": "3",
+          "url": "https://books.1guru.in/science/ta20181018153986404010ScienceNcertchapter3.pdf"
+        },
+        {
+          "name": " Carbon and its Compounds",
+          "id": "4",
+          "url": "https://books.1guru.in/science/ta20181018153986400510ScienceNcertchapter4.pdf"
+        },
+        {
+          "name": " Periodic Classification of Elements",
+          "id": "5",
+          "url": "https://books.1guru.in/science/ta20181018153986397610ScienceNcertchapter5.pdf"
+        },
+        {
+          "name": " Life Processes",
+          "id": "6",
+          "url": "https://books.1guru.in/science/ta20181018153986394710ScienceNcertchapter6.pdf"
+        },
+        {
+          "name": " Control and Coordination",
+          "id": "7",
+          "url": "https://books.1guru.in/science/ta20181018153986391610ScienceNcertchapter7.pdf"
+        },
+        {
+          "name": " How do Organisms Reproduce?",
+          "id": "8",
+          "url": "https://books.1guru.in/science/ta20181018153986388610ScienceNcertchapter8.pdf"
+        },
+        {
+          "name": " Heredity and Evolution",
+          "id": "9",
+          "url": "https://books.1guru.in/science/ta20181018153986385610ScienceNcertchapter9.pdf"
+        }
+      ]
+    }
+  ]
+},{
+  "board": "cbse",
+  "language": "english",
+  "level": "class10",
+  "subject": "science",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Development",
+          "id": "1",
+          "url": "https://books.1guru.in/science/ta20181017153974872010EconomicsNcertChapter1.pdf"
+        },
+        {
+          "name": " Sectors of the Indian Economy",
+          "id": "2",
+          "url": "https://books.1guru.in/science/ta20181017153974868810EconomicsNcertChapter2.pdf"
+        },
+        {
+          "name": " Money and Credit",
+          "id": "3",
+          "url": "https://books.1guru.in/science/ta20181017153974865810EconomicsNcertChapter3.pdf"
+        },
+        {
+          "name": " Globalisation and the Indian Economy",
+          "id": "4",
+          "url": "https://books.1guru.in/science/ta20181017153974862710EconomicsNcertChapter4.pdf"
+        },
+        {
+          "name": " Consumer Rights",
+          "id": "5",
+          "url": "https://books.1guru.in/science/ta20181017153974859510EconomicsNcertChapter5.pdf"
+        },
+        {
+          "name": " Resources and Development",
+          "id": "6",
+          "url": "https://books.1guru.in/science/ta20181017153974933610GeographyNcertChapter1.pdf"
+        },
+        {
+          "name": " Forest and Wildlife Resources",
+          "id": "6",
+          "url": "https://books.1guru.in/science/ta20181017153974930210GeographyNcertChapter2.pdf"
+        },
+        {
+          "name": " Water Resources",
+          "id": "6",
+          "url": "https://books.1guru.in/science/ta20181017153974927110GeographyNcertChapter3.pdf"
+        },
+        {
+          "name": " Agriculture",
+          "id": "7",
+          "url": "https://books.1guru.in/science/ta20181017153974924110GeographyNcertChapter4.pdf"
+        },
+        {
+          "name": " Minerals and Energy Resources",
+          "id": "8",
+          "url": "https://books.1guru.in/science/ta20181017153974920910GeographyNcertChapter5.pdf"
+        },
+        {
+          "name": " Manufacturing Industries",
+          "id": "9",
+          "url": "https://books.1guru.in/science/ta20181017153974917110GeographyNcertChapter6.pdf"
+        },
+        {
+          "name": " Lifelines of National Economy",
+          "id": "10",
+          "url": "https://books.1guru.in/science/ta20181017153974914410GeographyNcertChapter7.pdf"
+        },
+        {
+          "name": " The Rise of Nationalism in Europe",
+          "id": "11",
+          "url": "https://books.1guru.in/science/ta20181017153974959510HistoryNcertChapter1.pdf"
+        },
+        {
+          "name": " The Nationalist Movement in Indo – China",
+          "id": "12",
+          "url": "https://books.1guru.in/science/ta20181017153974956510HistoryNcertChapter2.pdf"
+        },
+        {
+          "name": " Nationalism in India",
+          "id": "13",
+          "url": "https://books.1guru.in/science/ta20181017153974953410HistoryNcertChapter3.pdf"
+        },
+        {
+          "name": " The Making of a Global World",
+          "id": "14",
+          "url": "https://books.1guru.in/science/ta20181017153974950310HistoryNcertChapter4.pdf"
+        },
+        {
+          "name": " The Age of Industrialisation",
+          "id": "15",
+          "url": "https://books.1guru.in/science/ta20181017153974947310HistoryNcertChapter5.pdf"
+        },
+        {
+          "name": " Work",
+          "id": "16",
+          "url": "https://books.1guru.in/science/ta20181017153974944210HistoryNcertChapter6.pdf"
+        },
+        {
+          "name": " Print Culture and The Modern World",
+          "id": "17",
+          "url": "https://books.1guru.in/science/ta20181017153974940710HistoryNcertChapter7.pdf"
+        },
+        {
+          "name": " Novels",
+          "id": "18",
+          "url": "https://books.1guru.in/science/ta20181017153974937210HistoryNcertChapter8.pdf"
+        },
+        {
+          "name": " Power Sharing",
+          "id": "19",
+          "url": "https://books.1guru.in/science/ta20181017153974898510PoliticalScienceNcertChapter1.pdf"
+        },
+        {
+          "name": " Federalism",
+          "id": "20",
+          "url": "https://books.1guru.in/science/ta20181017153974895710PoliticalScienceNcertChapter2.pdf"
+        },
+        {
+          "name": " Democracy and Diversity",
+          "id": "21",
+          "url": "https://books.1guru.in/science/ta20181017153974892810PoliticalScienceNcertChapter3.pdf"
+        },
+        {
+          "name": " Gender",
+          "id": "22",
+          "url": "https://books.1guru.in/science/ta20181017153974889310PoliticalScienceNcertChapter4.pdf"
+        },
+        {
+          "name": " Popular Struggles and Movements",
+          "id": "23",
+          "url": "https://books.1guru.in/science/ta20181017153974886010PoliticalScienceNcertChapter5.pdf"
+        },
+        {
+          "name": " Political Parties",
+          "id": "24",
+          "url": "https://books.1guru.in/science/ta20181017153974882210PoliticalScienceNcertChapter6.pdf"
+        },
+        {
+          "name": " Outcomes of Democracy",
+          "id": "25",
+          "url": "https://books.1guru.in/science/ta20181017153974878710PoliticalScienceNcertChapter7.pdf"
+        },
+        {
+          "name": " Challenges to Democracy",
+          "id": "26",
+          "url": "https://books.1guru.in/science/ta20181017153974875610PoliticalScienceNcertChapter8.pdf"
+        }
+      ]
+    }
+  ]
+},{
+  "board": "cbse",
+  "language": "english",
+  "level": "class11",
+  "subject": "Chemistry",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " The s – Block Elements",
+          "id": "10",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018191811ChemistryNcertChapter10.pdf"
+        },
+        {
+          "name": " Part 1",
+          "id": "11",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018187011ChemistryNcertChapter111.pdf"
+        },
+        {
+          "name": " Part 2",
+          "id": "11",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018179311ChemistryNcertChapter112.pdf"
+        },
+        {
+          "name": " Organic Chemistry – Some Basic Principles and ",
+          "id": "12",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018172211ChemistryNcertChapter12.pdf"
+        },
+        {
+          "name": " Hydrocarbons",
+          "id": "13",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018168411ChemistryNcertChapter13.pdf"
+        },
+        {
+          "name": " Environmental Chemistry",
+          "id": "14",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018164711ChemistryNcertChapter14.pdf"
+        },
+        {
+          "name": " Some Basic Concepts of Chemistry",
+          "id": "1",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018248611ChemistryNcertChapter1.pdf"
+        },
+        {
+          "name": " Structure of Atom",
+          "id": "2",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018245511ChemistryNcertChapter2.pdf"
+        },
+        {
+          "name": " Classification of Elements and Periodicity in P",
+          "id": "3",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018241411ChemistryNcertChapter3.pdf"
+        },
+        {
+          "name": " Chemical Bonding and Molecular Structure",
+          "id": "4",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018238111ChemistryNcertChapter4.pdf"
+        },
+        {
+          "name": " Part 1",
+          "id": "5",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018224211ChemistryNcertChapter51.pdf"
+        },
+        {
+          "name": " Part 2",
+          "id": "5",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018219611ChemistryNcertChapter52.pdf"
+        },
+        {
+          "name": " Thermodynamics",
+          "id": "6",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018204911ChemistryNcertChapter6.pdf"
+        },
+        {
+          "name": " Equilibrium",
+          "id": "7",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018201311ChemistryNcertChapter7.pdf"
+        },
+        {
+          "name": " Redox Reactions",
+          "id": "8",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018198111ChemistryNcertChapter8.pdf"
+        },
+        {
+          "name": " Hydrogen",
+          "id": "9",
+          "url": "https://books.1guru.in/chemistry/ta20181022154018195111ChemistryNcertChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class11",
+  "subject": "maths",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Straight Lines",
+          "id": "10",
+          "url": "https://books.1guru.in/maths/ta20181020154000521811MathsNcertChapter10.pdf"
+        },
+        {
+          "name": " Conic Sections",
+          "id": "11",
+          "url": "https://books.1guru.in/maths/ta20181020154000518811MathsNcertChapter11.pdf"
+        },
+        {
+          "name": " Introduction to Three Dimensional Geometry",
+          "id": "12",
+          "url": "https://books.1guru.in/maths/ta20181020154000515911MathsNcertChapter12.pdf"
+        },
+        {
+          "name": " Limits and Derivatives",
+          "id": "13",
+          "url": "https://books.1guru.in/maths/ta20181020154000506811MathsNcertChapter13.pdf"
+        },
+        {
+          "name": " Mathematical Reasoning",
+          "id": "14",
+          "url": "https://books.1guru.in/maths/ta20181020154000504011MathsNcertChapter14.pdf"
+        },
+        {
+          "name": " Statistics",
+          "id": "15",
+          "url": "https://books.1guru.in/maths/ta20181020154000501211MathsNcertChapter15.pdf"
+        },
+        {
+          "name": " Probability",
+          "id": "16",
+          "url": "https://books.1guru.in/maths/ta20181020154000498211MathsNcertChapter16.pdf"
+        },
+        {
+          "name": " Sets",
+          "id": "1",
+          "url": "https://books.1guru.in/maths/ta20181020154000548911MathsNcertChapter1.pdf"
+        },
+        {
+          "name": " Relations and Functions",
+          "id": "2",
+          "url": "https://books.1guru.in/maths/ta20181020154000546011MathsNcertChapter2.pdf"
+        },
+        {
+          "name": " Trigonometric Functions",
+          "id": "3",
+          "url": "https://books.1guru.in/maths/ta20181020154000542911MathsNcertChapter3.pdf"
+        },
+        {
+          "name": " Principle of Mathematical Induction",
+          "id": "4",
+          "url": "https://books.1guru.in/maths/ta20181020154000539811MathsNcertChapter4.pdf"
+        },
+        {
+          "name": " Complex Numbers and Quadratic Equations",
+          "id": "5",
+          "url": "https://books.1guru.in/maths/ta20181020154000536911MathsNcertChapter5.pdf"
+        },
+        {
+          "name": " Linear Inequalities",
+          "id": "6",
+          "url": "https://books.1guru.in/maths/ta20181020154000533711MathsNcertChapter6.pdf"
+        },
+        {
+          "name": " Permutations and Combinations",
+          "id": "7",
+          "url": "https://books.1guru.in/maths/ta20181020154000530611MathsNcertChapter7.pdf"
+        },
+        {
+          "name": " Binomial Theorem",
+          "id": "8",
+          "url": "https://books.1guru.in/maths/ta20181020154000527711MathsNcertChapter8.pdf"
+        },
+        {
+          "name": " Sequences and Series",
+          "id": "9",
+          "url": "https://books.1guru.in/maths/ta20181020154000524911MathsNcertChapter9.pdf"
+        },
+        {
+          "name": " NCERT Answers",
+          "id": "10",
+          "url": "https://books.1guru.in/maths/ta20181020154000495411MathsNcertAnswers.pdf"
+        }
+      ]
+    }
+  ]
+},{
+  "board": "cbse",
+  "language": "english",
+  "level": "class11",
+  "subject": "physics",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Mechanical Properties of Fluids",
+          "id": "10",
+          "url": "https://books.1guru.in/physics/ta20181022154017881211PhysicsNcertChapter10.pdf"
+        },
+        {
+          "name": " Thermal Properties of Matter",
+          "id": "11",
+          "url": "https://books.1guru.in/physics/ta20181022154017878011PhysicsNcertChapter11.pdf"
+        },
+        {
+          "name": " Thermodynamics",
+          "id": "12",
+          "url": "https://books.1guru.in/physics/ta20181022154017875011PhysicsNcertChapter12.pdf"
+        },
+        {
+          "name": " Kinetic Theory",
+          "id": "13",
+          "url": "https://books.1guru.in/physics/ta20181022154017872111PhysicsNcertChapter13.pdf"
+        },
+        {
+          "name": " Part 1",
+          "id": "14",
+          "url": "https://books.1guru.in/physics/ta20181022154017868711PhysicsNcertChapter141.pdf"
+        },
+        {
+          "name": " Part 2",
+          "id": "14",
+          "url": "https://books.1guru.in/physics/ta20181022154017865011PhysicsNcertChapter142.pdf"
+        },
+        {
+          "name": " Ray Optics and Optical Instruments(New for 201",
+          "id": "15",
+          "url": "https://books.1guru.in/physics/ta20181022154017859411PhysicsNcertChapter15.pdf"
+        },
+        {
+          "name": " Physical World",
+          "id": "1",
+          "url": "https://books.1guru.in/physics/ta20181022154017908111PhysicsNcertChapter1.pdf"
+        },
+        {
+          "name": " Units and Measurements",
+          "id": "2",
+          "url": "https://books.1guru.in/physics/ta20181022154017905211PhysicsNcertChapter2.pdf"
+        },
+        {
+          "name": " Motion in a Straight Line",
+          "id": "3",
+          "url": "https://books.1guru.in/physics/ta20181022154017902111PhysicsNcertChapter3.pdf"
+        },
+        {
+          "name": " Motion in a Plane",
+          "id": "4",
+          "url": "https://books.1guru.in/physics/ta20181022154017898711PhysicsNcertChapter4.pdf"
+        },
+        {
+          "name": " Laws of Motion",
+          "id": "5",
+          "url": "https://books.1guru.in/physics/ta20181022154017895811PhysicsNcertChapter5.pdf"
+        },
+        {
+          "name": " Work",
+          "id": "6",
+          "url": "https://books.1guru.in/physics/ta20181022154017892711PhysicsNcertChapter6.pdf"
+        },
+        {
+          "name": " System of Particles and Rotational Motion",
+          "id": "7",
+          "url": "https://books.1guru.in/physics/ta20181022154017890011PhysicsNcertChapter7.pdf"
+        },
+        {
+          "name": " Gravitation",
+          "id": "8",
+          "url": "https://books.1guru.in/physics/ta20181022154017887111PhysicsNcertChapter8.pdf"
+        },
+        {
+          "name": " Mechanical Properties of Solids",
+          "id": "9",
+          "url": "https://books.1guru.in/physics/ta20181022154017884111PhysicsNcertChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class12",
+  "subject": "accountancy",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Not-for-Profit Organisation",
+          "id": " 1",
+          "url": "https://books.1guru.in/accounting/ta20181011153923089412AccountingPart1Chapter1.pdf"
+        },
+        {
+          "name": " Partnership",
+          "id": " 2",
+          "url": "https://books.1guru.in/accounting/ta20181011153923092712AccountingPart1Chapter2.pdf"
+        },
+        {
+          "name": " Admission of a Partner",
+          "id": " 3",
+          "url": "https://books.1guru.in/accounting/ta20181011153923096012AccountingPart1Chapter3.pdf"
+        },
+        {
+          "name": " Retirement",
+          "id": " 4",
+          "url": "https://books.1guru.in/accounting/ta20181011153923099412AccountingPart1Chapter4.pdf"
+        },
+        {
+          "name": " Dissolution of Partnership Firm",
+          "id": " 5",
+          "url": "https://books.1guru.in/accounting/ta20181011153923102612AccountingPart1Chapter5.pdf"
+        },
+        {
+          "name": " Accounting for Share Capital",
+          "id": " 6",
+          "url": "https://books.1guru.in/accounting/ta20181011153923105612AccountingPart2Chapter1.pdf"
+        },
+        {
+          "name": " Issue and Redemption of Debentures",
+          "id": " 7",
+          "url": "https://books.1guru.in/accounting/ta20181011153923108612AccountingPart2Chapter2.pdf"
+        },
+        {
+          "name": " Financial Statements of a Company",
+          "id": " 8",
+          "url": "https://books.1guru.in/accounting/ta20181011153923111812AccountingPart2Chapter3.pdf"
+        },
+        {
+          "name": " Analysis of Financial Statements",
+          "id": " 9",
+          "url": "https://books.1guru.in/accounting/ta20181011153923114812AccountingPart2Chapter4.pdf"
+        },
+        {
+          "name": " Accounting Ratios",
+          "id": "10 ",
+          "url": "https://books.1guru.in/accounting/ta20181011153923117812AccountingPart2Chapter5.pdf"
+        },
+        {
+          "name": " Cash Flow Statements",
+          "id": "11",
+          "url": "https://books.1guru.in/accounting/ta20181011153923120812AccountingPart2Chapter6.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class12",
+  "subject": "biology",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Microbes in Human Welfare",
+          "id": "10",
+          "url": "https://books.1guru.in/biology/ta20181011153922744612BiologyNCERTChapter10.pdf"
+        },
+        {
+          "name": " Biotechnology",
+          "id": "11",
+          "url": "https://books.1guru.in/biology/ta20181011153922741012BiologyNCERTChapter11.pdf"
+        },
+        {
+          "name": " Biotechnology and its Applications",
+          "id": "12",
+          "url": "https://books.1guru.in/biology/ta20181011153922737612BiologyNCERTChapter12.pdf"
+        },
+        {
+          "name": " Organisms and Populations",
+          "id": "13",
+          "url": "https://books.1guru.in/biology/ta20181011153922734112BiologyNCERTChapter13.pdf"
+        },
+        {
+          "name": " Ecosystem",
+          "id": "14",
+          "url": "https://books.1guru.in/biology/ta20181011153922731112BiologyNCERTChapter14.pdf"
+        },
+        {
+          "name": " Biodiversity and Conservation",
+          "id": "15",
+          "url": "https://books.1guru.in/biology/ta20181011153922727912BiologyNCERTChapter15.pdf"
+        },
+        {
+          "name": " Environmental Issues",
+          "id": "16",
+          "url": "https://books.1guru.in/biology/ta20181011153922723712BiologyNCERTChapter16.pdf"
+        },
+        {
+          "name": " Reproduction in Organisms",
+          "id": "1",
+          "url": "https://books.1guru.in/biology/ta20181011153922775612BiologyNCERTChapter1.pdf"
+        },
+        {
+          "name": " Sexual Reproduction in Flowering Plants",
+          "id": "2",
+          "url": "https://books.1guru.in/biology/ta20181011153922772612BiologyNCERTChapter2.pdf"
+        },
+        {
+          "name": " Human Reproduction",
+          "id": "3",
+          "url": "https://books.1guru.in/biology/ta20181011153922769012BiologyNCERTChapter3.pdf"
+        },
+        {
+          "name": " Reproductive Health",
+          "id": "4",
+          "url": "https://books.1guru.in/biology/ta20181011153922765212BiologyNCERTChapter4.pdf"
+        },
+        {
+          "name": " Principle of Inheritance and Variation",
+          "id": "5",
+          "url": "https://books.1guru.in/biology/ta20181011153922761712BiologyNCERTChapter5.pdf"
+        },
+        {
+          "name": " Molecular Basis of Inheritance",
+          "id": "6",
+          "url": "https://books.1guru.in/biology/ta20181011153922758412BiologyNCERTChapter6.pdf"
+        },
+        {
+          "name": " Evolution",
+          "id": "7",
+          "url": "https://books.1guru.in/biology/ta20181011153922755212BiologyNCERTChapter7.pdf"
+        },
+        {
+          "name": " Human Health and Diseases",
+          "id": "8",
+          "url": "https://books.1guru.in/biology/ta20181011153922751312BiologyNCERTChapter8.pdf"
+        },
+        {
+          "name": " Strategies for Enhancement in Food Production",
+          "id": "9",
+          "url": "https://books.1guru.in/biology/ta20181011153922747712BiologyNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class12",
+  "subject": "chemistry",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Haloalkanes and Haloarenes",
+          "id": "10",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836908512ChemistryNcertChapter10.pdf"
+        },
+        {
+          "name": " Alcohols",
+          "id": "11",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836911912ChemistryNcertChapter11.pdf"
+        },
+        {
+          "name": " Aldehydes",
+          "id": "12",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836915312ChemistryNcertChapter12.pdf"
+        },
+        {
+          "name": " Amines",
+          "id": "13",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836919012ChemistryNcertChapter13.pdf"
+        },
+        {
+          "name": " Biomolecules",
+          "id": "14",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836922512ChemistryNcertChapter14.pdf"
+        },
+        {
+          "name": " Polymers",
+          "id": "15",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836925812ChemistryNcertChapter15.pdf"
+        },
+        {
+          "name": " Chemistry in Everyday Life",
+          "id": "16",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836929512ChemistryNcertChapter16.pdf"
+        },
+        {
+          "name": " Solid State",
+          "id": "1",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836870112ChemistryNcertChapter1.pdf"
+        },
+        {
+          "name": " Solutions",
+          "id": "2",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836874412ChemistryNcertChapter2.pdf"
+        },
+        {
+          "name": " Electrochemistry",
+          "id": "3",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836880712ChemistryNcertChapter3.pdf"
+        },
+        {
+          "name": " Chemical Kinetics",
+          "id": "4",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836884012ChemistryNcertChapter4.pdf"
+        },
+        {
+          "name": " Surface Chemistry",
+          "id": "5",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836887712ChemistryNcertChapter5.pdf"
+        },
+        {
+          "name": " General Principles",
+          "id": "6",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836891912ChemistryNcertChapter6.pdf"
+        },
+        {
+          "name": " The p-Block Elements",
+          "id": "7",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836896212ChemistryNcertChapter7.pdf"
+        },
+        {
+          "name": " The d- and f- Block Elements",
+          "id": "8",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836900812ChemistryNcertChapter8.pdf"
+        },
+        {
+          "name": " Coordination Compounds",
+          "id": "9",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836904812ChemistryNcertChapter9.pdf"
+        },
+        {
+          "name": "Answers Part 1",
+          "id": "10 ",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836937412ChemistryNcertAnswers.pdf"
+        },
+        {
+          "name": " Answers Part 2",
+          "id": "11",
+          "url": "https://books.1guru.in/chemistry/ta20181001153836940512ChemistryNcertAnswers2.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class12",
+  "subject": "Flamingo",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " My Mother at Sixty – Six",
+          "id": "1",
+          "url": "https://books.1guru.in/+english/ta20181011153922938612EnglishNCERTPoetryChapter1.pdf"
+        },
+        {
+          "name": " An Elementary School",
+          "id": " 2",
+          "url": "https://books.1guru.in/+english/ta20181011153922943612EnglishNCERTPoetryChapter2.pdf"
+        },
+        {
+          "name": " Keeping Quiet",
+          "id": " 3",
+          "url": "https://books.1guru.in/+english/ta20181011153922946412EnglishNCERTPoetryChapter3.pdf"
+        },
+        {
+          "name": " A Thing of Beauty",
+          "id": " 4",
+          "url": "https://books.1guru.in/+english/ta20181011153922949812EnglishNCERTPoetryChapter4.pdf"
+        },
+        {
+          "name": " Aunt Jennifer’s Tigers",
+          "id": " 5",
+          "url": "https://books.1guru.in/+english/ta20181011153922953912EnglishNCERTPoetryChapter5.pdf"
+        },
+        {
+          "name": " The Last Lesson",
+          "id": " 6",
+          "url": "https://books.1guru.in/+english/ta20181011153922917412EnglishNCERTProseChapter1.pdf"
+        },
+        {
+          "name": " Lost Spring",
+          "id": " 7",
+          "url": "https://books.1guru.in/+english/ta20181011153922920712EnglishNCERTProseChapter2.pdf"
+        },
+        {
+          "name": " Deep Water",
+          "id": " 8",
+          "url": "https://books.1guru.in/+english/ta20181011153922924112EnglishNCERTProseChapter3.pdf"
+        },
+        {
+          "name": " The Rattrap",
+          "id": " 9",
+          "url": "https://books.1guru.in/+english/ta20181011153922927712EnglishNCERTProseChapter4.pdf"
+        },
+        {
+          "name": " Indigo",
+          "id": " 10",
+          "url": "https://books.1guru.in/+english/ta20181011153922931512EnglishNCERTProseChapter5.pdf"
+        },
+        {
+          "name": " Going Places",
+          "id": " 11",
+          "url": "https://books.1guru.in/+english/ta20181011153922934612EnglishNCERTProseChapter6.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class12",
+  "subject": "physics",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Wave Optics",
+          "id": "10",
+          "url": "https://books.1guru.in/physics/ta20181001153836664212PhysicsNcertChapter10.pdf"
+        },
+        {
+          "name": " Dual Nature of Radiation and Matter",
+          "id": "11",
+          "url": "https://books.1guru.in/physics/ta20181001153836667512PhysicsNcertChapter11.pdf"
+        },
+        {
+          "name": " Atoms",
+          "id": "12",
+          "url": "https://books.1guru.in/physics/ta20181001153836670812PhysicsNcertChapter12.pdf"
+        },
+        {
+          "name": " Nuclei",
+          "id": "13",
+          "url": "https://books.1guru.in/physics/ta20181001153836674212PhysicsNcertChapter13.pdf"
+        },
+        {
+          "name": " Semiconductor Electronics",
+          "id": "14",
+          "url": "https://books.1guru.in/physics/ta20181001153836677812PhysicsNcertChapter14.pdf"
+        },
+        {
+          "name": " Communication System",
+          "id": "15",
+          "url": "https://books.1guru.in/physics/ta20181001153836681312PhysicsNcertChapter15.pdf"
+        },
+        {
+          "name": " Electric Charges and Fields",
+          "id": "1",
+          "url": "https://books.1guru.in/physics/ta20181001153836630612PhysicsNcertChapter1.pdf"
+        },
+        {
+          "name": " Electrostatic Potential and Capacitance",
+          "id": "2",
+          "url": "https://books.1guru.in/physics/ta20181001153836634612PhysicsNcertChapter2.pdf"
+        },
+        {
+          "name": " Current Electricity",
+          "id": "3",
+          "url": "https://books.1guru.in/physics/ta20181001153836637612PhysicsNcertChapter3.pdf"
+        },
+        {
+          "name": " Moving Charges and Magnetism",
+          "id": "4",
+          "url": "https://books.1guru.in/physics/ta20181001153836643412PhysicsNcertChapter4.pdf"
+        },
+        {
+          "name": " Magnetism and Matter",
+          "id": "5",
+          "url": "https://books.1guru.in/physics/ta20181001153836646612PhysicsNcertChapter5.pdf"
+        },
+        {
+          "name": " Electromagnetic Induction",
+          "id": "6",
+          "url": "https://books.1guru.in/physics/ta20181001153836650112PhysicsNcertChapter6.pdf"
+        },
+        {
+          "name": " Alternating Current",
+          "id": "7",
+          "url": "https://books.1guru.in/physics/ta20181001153836653312PhysicsNcertChapter7.pdf"
+        },
+        {
+          "name": " Electromagnetic Waves",
+          "id": "8",
+          "url": "https://books.1guru.in/physics/ta20181001153836656412PhysicsNcertChapter8.pdf"
+        },
+        {
+          "name": " Ray Optics and Optical Instruments",
+          "id": "9",
+          "url": "https://books.1guru.in/physics/ta20181001153836660612PhysicsNcertChapter9.pdf"
+        },
+        {
+          "name": " Answers Part 1",
+          "id": "10",
+          "url": "https://books.1guru.in/physics/ta20181001153836685012PhysicsNcertAnswer1.pdf"
+        },
+        {
+          "name": "Answers Part 2",
+          "id": "11 ",
+          "url": "https://books.1guru.in/physics/ta20181001153836688312PhysicsNcertAnswer2.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class12",
+  "subject": "Vistas",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " The Third Level",
+          "id": "1",
+          "url": "https://books.1guru.in/+english/ta20181011153922990612EnglishNCERTVistasChapter1.pdf"
+        },
+        {
+          "name": " The Tiger King",
+          "id": "2",
+          "url": "https://books.1guru.in/+english/ta20181011153922987212EnglishNCERTVistasChapter2.pdf"
+        },
+        {
+          "name": " Journey to the end of the Earth",
+          "id": "3",
+          "url": "https://books.1guru.in/+english/ta20181011153922983512EnglishNCERTVistasChapter3.pdf"
+        },
+        {
+          "name": " The Enemy Pearl",
+          "id": "4",
+          "url": "https://books.1guru.in/+english/ta20181011153922980012EnglishNCERTVistasChapter4.pdf"
+        },
+        {
+          "name": " Should Wizard hit Mommy",
+          "id": "5",
+          "url": "https://books.1guru.in/+english/ta20181011153922976812EnglishNCERTVistasChapter5.pdf"
+        },
+        {
+          "name": " On the face of It",
+          "id": "6",
+          "url": "https://books.1guru.in/+english/ta20181011153922973812EnglishNCERTVistasChapter6.pdf"
+        },
+        {
+          "name": " Evans Tries an O-level",
+          "id": "7",
+          "url": "https://books.1guru.in/+english/ta20181011153922970712EnglishNCERTVistasChapter7.pdf"
+        },
+        {
+          "name": " Memories of Childhood",
+          "id": "8",
+          "url": "https://books.1guru.in/+english/ta20181011153922965412EnglishNCERTVistasChapter8.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class2",
+  "subject": "english",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Strange Talk",
+          "id": "10",
+          "url": "https://books.1guru.in/+english/ta2018101015391533602EnglishNCERTChapter10.pdf"
+        },
+        {
+          "name": " First Day at School",
+          "id": "1",
+          "url": "https://books.1guru.in/+english/ta2018101015391530582EnglishNCERTChapter1.pdf"
+        },
+        {
+          "name": " I am Lucky!",
+          "id": "2",
+          "url": "https://books.1guru.in/+english/ta2018101015391530932EnglishNCERTChapter2.pdf"
+        },
+        {
+          "name": " A Smile",
+          "id": "3",
+          "url": "https://books.1guru.in/+english/ta2018101015391531292EnglishNCERTChapter3.pdf"
+        },
+        {
+          "name": " Rain",
+          "id": "4",
+          "url": "https://books.1guru.in/+english/ta2018101015391531602EnglishNCERTChapter4.pdf"
+        },
+        {
+          "name": " Zoo Manners",
+          "id": "5",
+          "url": "https://books.1guru.in/+english/ta2018101015391531892EnglishNCERTChapter5.pdf"
+        },
+        {
+          "name": " Mr Nobody",
+          "id": "6",
+          "url": "https://books.1guru.in/+english/ta2018101015391532212EnglishNCERTChapter6.pdf"
+        },
+        {
+          "name": " On My Blackboard I can Draw",
+          "id": "7",
+          "url": "https://books.1guru.in/+english/ta2018101015391532552EnglishNCERTChapter7.pdf"
+        },
+        {
+          "name": " I am the Music Man",
+          "id": "8",
+          "url": "https://books.1guru.in/+english/ta2018101015391532942EnglishNCERTChapter8.pdf"
+        },
+        {
+          "name": " Granny Granny Please Comb my Hair",
+          "id": "9",
+          "url": "https://books.1guru.in/+english/ta2018101015391533302EnglishNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class2",
+  "subject": "hindi",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " मीठी सारंगी",
+          "id": "10",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391546802HindiNCERTChapter10.pdf"
+        },
+        {
+          "name": " टेसू राजा बीच बाजार",
+          "id": "11",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391546452HindiNCERTChapter11.pdf"
+        },
+        {
+          "name": " बस के नीचे बाघ",
+          "id": "12",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391546112HindiNCERTChapter12.pdf"
+        },
+        {
+          "name": " सूरज जल्दी आना जी",
+          "id": "13",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391545782HindiNCERTChapter13.pdf"
+        },
+        {
+          "name": " नटखट चूहा",
+          "id": "14",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391545432HindiNCERTChapter14.pdf"
+        },
+        {
+          "name": " एक्की-दोक्की",
+          "id": "15",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391545082HindiNCERTChapter15.pdf"
+        },
+        {
+          "name": " ऊँट चला",
+          "id": "1",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391549662HindiNCERTChapter1.pdf"
+        },
+        {
+          "name": " भालू ने खेली फुटबॉल",
+          "id": "2",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391549342HindiNCERTChapter2.pdf"
+        },
+        {
+          "name": " म्याऊँ",
+          "id": "3",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391549032HindiNCERTChapter3.pdf"
+        },
+        {
+          "name": " अधिक बलवान कौन?",
+          "id": "4",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391548712HindiNCERTChapter4.pdf"
+        },
+        {
+          "name": " दोस्त की मदद",
+          "id": "5",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391548402HindiNCERTChapter5.pdf"
+        },
+        {
+          "name": " बहुत हुआ",
+          "id": "6",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391548122HindiNCERTChapter6.pdf"
+        },
+        {
+          "name": " मेरी किताब",
+          "id": "7",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391547752HindiNCERTChapter7.pdf"
+        },
+        {
+          "name": " तितली और कली",
+          "id": "8",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391547432HindiNCERTChapter8.pdf"
+        },
+        {
+          "name": " बुलबुल",
+          "id": "9",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101015391547112HindiNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class2",
+  "subject": "maths",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Add our Points",
+          "id": "10",
+          "url": "https://books.1guru.in/maths/ta2018101015391501842MathsNCERTChapter10.pdf"
+        },
+        {
+          "name": " Lines and Lines",
+          "id": "11",
+          "url": "https://books.1guru.in/maths/ta2018101015391502282MathsNCERTChapter11.pdf"
+        },
+        {
+          "name": " Give and Take",
+          "id": "12",
+          "url": "https://books.1guru.in/maths/ta2018101015391503492MathsNCERTChapter12.pdf"
+        },
+        {
+          "name": " The Longest Step",
+          "id": "13",
+          "url": "https://books.1guru.in/maths/ta2018101015391502872MathsNCERTChapter13.pdf"
+        },
+        {
+          "name": " Birds Come",
+          "id": "14",
+          "url": "https://books.1guru.in/maths/ta2018101015391503842MathsNCERTChapter14.pdf"
+        },
+        {
+          "name": " How Many Ponytails?",
+          "id": "15",
+          "url": "https://books.1guru.in/maths/ta2018101015391504262MathsNCERTChapter15.pdf"
+        },
+        {
+          "name": " What is Long",
+          "id": "1",
+          "url": "https://books.1guru.in/maths/ta2018101015391498582MathsNCERTChapter1.pdf"
+        },
+        {
+          "name": " Counting in Groups",
+          "id": "2",
+          "url": "https://books.1guru.in/maths/ta2018101015391498922MathsNCERTChapter2.pdf"
+        },
+        {
+          "name": " How Much Can You Carry?",
+          "id": "3",
+          "url": "https://books.1guru.in/maths/ta2018101015391499422MathsNCERTChapter3.pdf"
+        },
+        {
+          "name": " Counting in Tens",
+          "id": "4",
+          "url": "https://books.1guru.in/maths/ta2018101015391499842MathsNCERTChapter4.pdf"
+        },
+        {
+          "name": " Patterns",
+          "id": "5",
+          "url": "https://books.1guru.in/maths/ta2018101015391500172MathsNCERTChapter5.pdf"
+        },
+        {
+          "name": " Footprints",
+          "id": "6",
+          "url": "https://books.1guru.in/maths/ta2018101015391500492MathsNCERTChapter6.pdf"
+        },
+        {
+          "name": " Jugs and Mugs",
+          "id": "7",
+          "url": "https://books.1guru.in/maths/ta2018101015391500842MathsNCERTChapter7.pdf"
+        },
+        {
+          "name": " Tens and Ones",
+          "id": "8",
+          "url": "https://books.1guru.in/maths/ta2018101015391501172MathsNCERTChapter8.pdf"
+        },
+        {
+          "name": " My Funday",
+          "id": "9",
+          "url": "https://books.1guru.in/maths/ta2018101015391501502MathsNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class2",
+  "subject": "raindrops",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Our National Symbols",
+          "id": "10",
+          "url": "https://books.1guru.in/+english/ta2018101015391537402EnglishRaindropsChapter10.pdf"
+        },
+        {
+          "name": " The Festivals of India",
+          "id": "11",
+          "url": "https://books.1guru.in/+english/ta2018101015391536992EnglishRaindropsChapter11.pdf"
+        },
+        {
+          "name": " The Monkey and The Elephant",
+          "id": "12",
+          "url": "https://books.1guru.in/+english/ta2018101015391536202EnglishRaindropsChapter12.pdf"
+        },
+        {
+          "name": " Going to the Fair",
+          "id": "13",
+          "url": "https://books.1guru.in/+english/ta2018101015391535882EnglishRaindropsChapter13.pdf"
+        },
+        {
+          "name": " Colours",
+          "id": "14",
+          "url": "https://books.1guru.in/+english/ta2018101015391535582EnglishRaindropsChapter14.pdf"
+        },
+        {
+          "name": " Sikkim",
+          "id": "15",
+          "url": "https://books.1guru.in/+english/ta2018101015391535242EnglishRaindropsChapter15.pdf"
+        },
+        {
+          "name": " Action Song",
+          "id": "1",
+          "url": "https://books.1guru.in/+english/ta2018101015391540862EnglishRaindropsChapter1.pdf"
+        },
+        {
+          "name": " Our Day",
+          "id": "2",
+          "url": "https://books.1guru.in/+english/ta2018101015391540542EnglishRaindropsChapter2.pdf"
+        },
+        {
+          "name": " My Family",
+          "id": "3",
+          "url": "https://books.1guru.in/+english/ta2018101015391540222EnglishRaindropsChapter3.pdf"
+        },
+        {
+          "name": " Whats Going On?",
+          "id": "4",
+          "url": "https://books.1guru.in/+english/ta2018101015391539872EnglishRaindropsChapter4.pdf"
+        },
+        {
+          "name": " Mohan",
+          "id": "5",
+          "url": "https://books.1guru.in/+english/ta2018101015391539532EnglishRaindropsChapter5.pdf"
+        },
+        {
+          "name": " Rain in Summer",
+          "id": "6",
+          "url": "https://books.1guru.in/+english/ta2018101015391539162EnglishRaindropsChapter6.pdf"
+        },
+        {
+          "name": " My Village",
+          "id": "7",
+          "url": "https://books.1guru.in/+english/ta2018101015391538782EnglishRaindropsChapter7.pdf"
+        },
+        {
+          "name": " The Work People Do",
+          "id": "8",
+          "url": "https://books.1guru.in/+english/ta2018101015391538142EnglishRaindropsChapter8.pdf"
+        },
+        {
+          "name": " Work",
+          "id": "9",
+          "url": "https://books.1guru.in/+english/ta2018101015391537762EnglishRaindropsChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class3",
+  "subject": "evs",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " What is Cooking",
+          "id": "10",
+          "url": "https://books.1guru.in/evs/ta2018101115392365503EVSNCERTChapter10.pdf"
+        },
+        {
+          "name": " From Here to There",
+          "id": "11",
+          "url": "https://books.1guru.in/evs/ta2018101115392365193EVSNCERTChapter11.pdf"
+        },
+        {
+          "name": " Work We Do",
+          "id": "12",
+          "url": "https://books.1guru.in/evs/ta2018101115392364853EVSNCERTChapter12.pdf"
+        },
+        {
+          "name": " Sharing Our Feelings",
+          "id": "13",
+          "url": "https://books.1guru.in/evs/ta2018101115392364473EVSNCERTChapter13.pdf"
+        },
+        {
+          "name": " The Story of Food",
+          "id": "14",
+          "url": "https://books.1guru.in/evs/ta2018101115392364103EVSNCERTChapter14.pdf"
+        },
+        {
+          "name": " Making Pots",
+          "id": "15",
+          "url": "https://books.1guru.in/evs/ta2018101115392363783EVSNCERTChapter15.pdf"
+        },
+        {
+          "name": " Games We Play",
+          "id": "16",
+          "url": "https://books.1guru.in/evs/ta2018101115392363453EVSNCERTChapter16.pdf"
+        },
+        {
+          "name": " Here comes a Letter",
+          "id": "17",
+          "url": "https://books.1guru.in/evs/ta2018101115392363113EVSNCERTChapter17.pdf"
+        },
+        {
+          "name": " A House Like This",
+          "id": "18",
+          "url": "https://books.1guru.in/evs/ta2018101115392362773EVSNCERTChapter18.pdf"
+        },
+        {
+          "name": " Our Friends – Animals",
+          "id": "19",
+          "url": "https://books.1guru.in/evs/ta2018101115392362443EVSNCERTChapter19.pdf"
+        },
+        {
+          "name": " Poonam’s Day out",
+          "id": "1",
+          "url": "https://books.1guru.in/evs/ta2018101115392368493EVSNCERTChapter1.pdf"
+        },
+        {
+          "name": " Drop by Drop",
+          "id": "20",
+          "url": "https://books.1guru.in/evs/ta2018101115392362073EVSNCERTChapter20.pdf"
+        },
+        {
+          "name": " Families can be Different",
+          "id": "21",
+          "url": "https://books.1guru.in/evs/ta2018101115392361713EVSNCERTChapter21.pdf"
+        },
+        {
+          "name": " Left-Right",
+          "id": "22",
+          "url": "https://books.1guru.in/evs/ta2018101115392361293EVSNCERTChapter22.pdf"
+        },
+        {
+          "name": " A Beautiful Cloth",
+          "id": "23",
+          "url": "https://books.1guru.in/evs/ta2018101115392360863EVSNCERTChapter23.pdf"
+        },
+        {
+          "name": " Web of Life",
+          "id": "24",
+          "url": "https://books.1guru.in/evs/ta2018101115392360523EVSNCERTChapter24.pdf"
+        },
+        {
+          "name": " The Plant Fairy",
+          "id": "2",
+          "url": "https://books.1guru.in/evs/ta2018101115392368153EVSNCERTChapter2.pdf"
+        },
+        {
+          "name": " Water O’ Water!",
+          "id": "3",
+          "url": "https://books.1guru.in/evs/ta2018101115392367883EVSNCERTChapter3.pdf"
+        },
+        {
+          "name": " Our First School",
+          "id": "4",
+          "url": "https://books.1guru.in/evs/ta2018101115392367583EVSNCERTChapter4.pdf"
+        },
+        {
+          "name": " Chhotu’s House",
+          "id": "5",
+          "url": "https://books.1guru.in/evs/ta2018101115392367303EVSNCERTChapter5.pdf"
+        },
+        {
+          "name": " Foods We Eat",
+          "id": "6",
+          "url": "https://books.1guru.in/evs/ta2018101115392366933EVSNCERTChapter6.pdf"
+        },
+        {
+          "name": " Saying without Speaking",
+          "id": "7",
+          "url": "https://books.1guru.in/evs/ta2018101115392366633EVSNCERTChapter7.pdf"
+        },
+        {
+          "name": " Flying High",
+          "id": "8",
+          "url": "https://books.1guru.in/evs/ta2018101115392366183EVSNCERTChapter8.pdf"
+        },
+        {
+          "name": " It’s Raining",
+          "id": "9",
+          "url": "https://books.1guru.in/evs/ta2018101115392365843EVSNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class3",
+  "subject": "evs-hindi",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " पकाएँ",
+          "id": "10",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392402633EVSNCERTHindiMediumChapter10.pdf"
+        },
+        {
+          "name": " यहाँ से वहाँ",
+          "id": "11",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392402313EVSNCERTHindiMediumChapter11.pdf"
+        },
+        {
+          "name": " काम अपने-अपने",
+          "id": "12",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392401863EVSNCERTHindiMediumChapter12.pdf"
+        },
+        {
+          "name": " छूकर देखें",
+          "id": "13",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392401523EVSNCERTHindiMediumChapter13.pdf"
+        },
+        {
+          "name": " कहाँ से आया",
+          "id": "14",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392401183EVSNCERTHindiMediumChapter14.pdf"
+        },
+        {
+          "name": " आओ बनाएँ बर्तन",
+          "id": "15",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392400793EVSNCERTHindiMediumChapter15.pdf"
+        },
+        {
+          "name": " खेल-खेल में",
+          "id": "16",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392400493EVSNCERTHindiMediumChapter16.pdf"
+        },
+        {
+          "name": " चिट्ठी आई है",
+          "id": "17",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392400133EVSNCERTHindiMediumChapter17.pdf"
+        },
+        {
+          "name": " ऐसे भी होते है घर",
+          "id": "18",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392399813EVSNCERTHindiMediumChapter18.pdf"
+        },
+        {
+          "name": " हमारे साथी जानवर",
+          "id": "19",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392399493EVSNCERTHindiMediumChapter19.pdf"
+        },
+        {
+          "name": " डाल-डाल पर",
+          "id": "1",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392405783EVSNCERTHindiMediumChapter1.pdf"
+        },
+        {
+          "name": " बूँद-बूँद से",
+          "id": "20",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392398473EVSNCERTHindiMediumChapter20.pdf"
+        },
+        {
+          "name": " तरह-तरह के परिवार",
+          "id": "21",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392398183EVSNCERTHindiMediumChapter21.pdf"
+        },
+        {
+          "name": " दायाँ-बायाँ",
+          "id": "22",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392397843EVSNCERTHindiMediumChapter22.pdf"
+        },
+        {
+          "name": " कपड़ा सजा कैसे",
+          "id": "23",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392397503EVSNCERTHindiMediumChapter23.pdf"
+        },
+        {
+          "name": " जीवन का जाल",
+          "id": "24",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392397143EVSNCERTHindiMediumChapter24.pdf"
+        },
+        {
+          "name": " पौधों की परी",
+          "id": "2",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392405433EVSNCERTHindiMediumChapter2.pdf"
+        },
+        {
+          "name": " पानी रे पानी",
+          "id": "3",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392405083EVSNCERTHindiMediumChapter3.pdf"
+        },
+        {
+          "name": " हमारा पहला स्कूल",
+          "id": "4",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392404753EVSNCERTHindiMediumChapter4.pdf"
+        },
+        {
+          "name": " छोटू का घर",
+          "id": "5",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392404393EVSNCERTHindiMediumChapter5.pdf"
+        },
+        {
+          "name": " खाना अपना-अपना",
+          "id": "6",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392403993EVSNCERTHindiMediumChapter6.pdf"
+        },
+        {
+          "name": " बिन बोले बात",
+          "id": "7",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392403683EVSNCERTHindiMediumChapter7.pdf"
+        },
+        {
+          "name": " पंख फैलाएँ",
+          "id": "8",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392403363EVSNCERTHindiMediumChapter8.pdf"
+        },
+        {
+          "name": " बादल आए",
+          "id": "9",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101115392403033EVSNCERTHindiMediumChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class3",
+  "subject": "english",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " How Creatures Move",
+          "id": "10",
+          "url": "https://books.1guru.in/+english/ta2018101115392346573EnglishNCERTChapter10.pdf"
+        },
+        {
+          "name": " Good Morning",
+          "id": "1",
+          "url": "https://books.1guru.in/+english/ta2018101115392350313EnglishNCERTChapter1.pdf"
+        },
+        {
+          "name": " Bird Talk",
+          "id": "2",
+          "url": "https://books.1guru.in/+english/ta2018101115392349253EnglishNCERTChapter2.pdf"
+        },
+        {
+          "name": " Little by Little",
+          "id": "3",
+          "url": "https://books.1guru.in/+english/ta2018101115392348813EnglishNCERTChapter3.pdf"
+        },
+        {
+          "name": " Sea Song",
+          "id": "4",
+          "url": "https://books.1guru.in/+english/ta2018101115392348503EnglishNCERTChapter4.pdf"
+        },
+        {
+          "name": " The Balloon Man",
+          "id": "5",
+          "url": "https://books.1guru.in/+english/ta2018101115392348183EnglishNCERTChapter5.pdf"
+        },
+        {
+          "name": " Trains",
+          "id": "6",
+          "url": "https://books.1guru.in/+english/ta2018101115392347843EnglishNCERTChapter6.pdf"
+        },
+        {
+          "name": " Puppy and I",
+          "id": "7",
+          "url": "https://books.1guru.in/+english/ta2018101115392347483EnglishNCERTChapter7.pdf"
+        },
+        {
+          "name": " What’s in the Mailbox?",
+          "id": "8",
+          "url": "https://books.1guru.in/+english/ta2018101115392347183EnglishNCERTChapter8.pdf"
+        },
+        {
+          "name": " Don’t Tell",
+          "id": "9",
+          "url": "https://books.1guru.in/+english/ta2018101115392346853EnglishNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class3",
+  "subject": "english",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " क्योंजीमल और कैसे कैसलिया",
+          "id": "10",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392354383HindiNCERTChapter10.pdf"
+        },
+        {
+          "name": " मीरा बहन और बाघ",
+          "id": "11",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392353993HindiNCERTChapter11.pdf"
+        },
+        {
+          "name": " जब मुझे साँप ने काटा",
+          "id": "12",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392353573HindiNCERTChapter12.pdf"
+        },
+        {
+          "name": " मिर्च का मजा",
+          "id": "13",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392353213HindiNCERTChapter13.pdf"
+        },
+        {
+          "name": " सबसे अच्छा पेड़",
+          "id": "14",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392352863HindiNCERTChapter14.pdf"
+        },
+        {
+          "name": " पेड़ पत्ते ही पत्ते",
+          "id": "15",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392352543HindiNCERTChapter15.pdf"
+        },
+        {
+          "name": " कक्कू",
+          "id": "1",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392357783HindiNCERTChapter1.pdf"
+        },
+        {
+          "name": " शेखीबाज़ मक्खी",
+          "id": "2",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392357473HindiNCERTChapter2.pdf"
+        },
+        {
+          "name": " चाँद वाली अम्मा",
+          "id": "3",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392357003HindiNCERTChapter3.pdf"
+        },
+        {
+          "name": " मन करता है",
+          "id": "4",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392356563HindiNCERTChapter4.pdf"
+        },
+        {
+          "name": " बहादुर बित्तो",
+          "id": "5",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392356263HindiNCERTChapter5.pdf"
+        },
+        {
+          "name": " हमसे सब कहते",
+          "id": "6",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392355843HindiNCERTChapter6.pdf"
+        },
+        {
+          "name": " टिपतिपवा",
+          "id": "7",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392355523HindiNCERTChapter7.pdf"
+        },
+        {
+          "name": " बंदर बाँट",
+          "id": "8",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392355133HindiNCERTChapter8.pdf"
+        },
+        {
+          "name": " अक्ल बड़ी या भैंस",
+          "id": "9",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101115392354713HindiNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{"board":"cbse","language":"english","level":"class3","subject":"maths","books":[{"name":"book 1","chapters":[{"name":" Play with Patterns","id":"10","url":"https://books.1guru.in/maths/ta2018101115392333103MathsNCERTEnglishMediumChapter10.pdf"},{"name":" Jugs and Mugs","id":"11","url":"https://books.1guru.in/maths/ta2018101115392332783MathsNCERTEnglishMediumChapter11.pdf"},{"name":" Can we Share?","id":"12","url":"https://books.1guru.in/maths/ta2018101115392332463MathsNCERTEnglishMediumChapter12.pdf"},{"name":" Smart Charts!","id":"13","url":"https://books.1guru.in/maths/ta2018101115392332143MathsNCERTEnglishMediumChapter13.pdf"},{"name":" Rupees and Paise","id":"14","url":"https://books.1guru.in/maths/ta2018101115392331803MathsNCERTEnglishMediumChapter14.pdf"},{"name":" Where to Look From","id":"1","url":"https://books.1guru.in/maths/ta2018101115392336263MathsNCERTEnglishMediumChapter1.pdf"},{"name":" Fun with Numbers","id":"2","url":"https://books.1guru.in/maths/ta2018101115392335953MathsNCERTEnglishMediumChapter2.pdf"},{"name":" Give and Take","id":"3","url":"https://books.1guru.in/maths/ta2018101115392335553MathsNCERTEnglishMediumChapter3.pdf"},{"name":" Long and Short","id":"4","url":"https://books.1guru.in/maths/ta2018101115392335243MathsNCERTEnglishMediumChapter4.pdf"},{"name":" Shapes and Designs","id":"5","url":"https://books.1guru.in/maths/ta2018101115392334923MathsNCERTEnglishMediumChapter5.pdf"},{"name":" Fun with Give and Take","id":"6","url":"https://books.1guru.in/maths/ta2018101115392334553MathsNCERTEnglishMediumChapter6.pdf"},{"name":" Time Goes On…","id":"7","url":"https://books.1guru.in/maths/ta2018101115392334233MathsNCERTEnglishMediumChapter7.pdf"},{"name":" Who is Heavier?","id":"8","url":"https://books.1guru.in/maths/ta2018101115392333823MathsNCERTEnglishMediumChapter8.pdf"},{"name":" How Many Times?","id":"9","url":"https://books.1guru.in/maths/ta2018101115392333463MathsNCERTEnglishMediumChapter9.pdf"}]}]}
+,{
+  "board": "cbse",
+  "language": "english",
+  "level": "class4",
+  "subject": "evs",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Hu Tu Tu",
+          "id": "10",
+          "url": "https://books.1guru.in/evs/ta2018101215393181804EVSNCERTChapter10.pdf"
+        },
+        {
+          "name": " The Valley of Flowers",
+          "id": "11",
+          "url": "https://books.1guru.in/evs/ta2018101215393181274EVSNCERTChapter11.pdf"
+        },
+        {
+          "name": " Changing Times",
+          "id": "12",
+          "url": "https://books.1guru.in/evs/ta2018101215393180644EVSNCERTChapter12.pdf"
+        },
+        {
+          "name": " A River’s Tale",
+          "id": "13",
+          "url": "https://books.1guru.in/evs/ta2018101215393180314EVSNCERTChapter13.pdf"
+        },
+        {
+          "name": " Basva’s Farm",
+          "id": "14",
+          "url": "https://books.1guru.in/evs/ta2018101215393180004EVSNCERTChapter14.pdf"
+        },
+        {
+          "name": " From Market to Home",
+          "id": "15",
+          "url": "https://books.1guru.in/evs/ta2018101215393178314EVSNCERTChapter15.pdf"
+        },
+        {
+          "name": " A busy Month",
+          "id": "16",
+          "url": "https://books.1guru.in/evs/ta2018101215393177994EVSNCERTChapter16.pdf"
+        },
+        {
+          "name": " Nandita in Mumbai",
+          "id": "17",
+          "url": "https://books.1guru.in/evs/ta2018101215393177674EVSNCERTChapter17.pdf"
+        },
+        {
+          "name": " Too Much Water",
+          "id": "18",
+          "url": "https://books.1guru.in/evs/ta2018101215393177324EVSNCERTChapter18.pdf"
+        },
+        {
+          "name": " Abdul in the Garden",
+          "id": "19",
+          "url": "https://books.1guru.in/evs/ta2018101215393177004EVSNCERTChapter19.pdf"
+        },
+        {
+          "name": " Going to School",
+          "id": "1",
+          "url": "https://books.1guru.in/evs/ta2018101215393185024EVSNCERTChapter1.pdf"
+        },
+        {
+          "name": " Eating Together",
+          "id": "20",
+          "url": "https://books.1guru.in/evs/ta2018101215393176674EVSNCERTChapter20.pdf"
+        },
+        {
+          "name": " Food and Fun",
+          "id": "21",
+          "url": "https://books.1guru.in/evs/ta2018101215393176254EVSNCERTChapter21.pdf"
+        },
+        {
+          "name": " The World in my Home",
+          "id": "22",
+          "url": "https://books.1guru.in/evs/ta2018101215393175964EVSNCERTChapter22.pdf"
+        },
+        {
+          "name": " Pochampalli",
+          "id": "23",
+          "url": "https://books.1guru.in/evs/ta2018101215393175634EVSNCERTChapter23.pdf"
+        },
+        {
+          "name": " Home and Abroad",
+          "id": "24",
+          "url": "https://books.1guru.in/evs/ta2018101215393175314EVSNCERTChapter24.pdf"
+        },
+        {
+          "name": " Spicy Riddles",
+          "id": "25",
+          "url": "https://books.1guru.in/evs/ta2018101215393174964EVSNCERTChapter25.pdf"
+        },
+        {
+          "name": " Defence Officer",
+          "id": "26",
+          "url": "https://books.1guru.in/evs/ta2018101215393174284EVSNCERTChapter26.pdf"
+        },
+        {
+          "name": " Chuskit Goes to School",
+          "id": "27",
+          "url": "https://books.1guru.in/evs/ta2018101215393173954EVSNCERTChapter27.pdf"
+        },
+        {
+          "name": " Ear to Ear",
+          "id": "2",
+          "url": "https://books.1guru.in/evs/ta2018101215393184714EVSNCERTChapter2.pdf"
+        },
+        {
+          "name": " A Day with Nandu",
+          "id": "3",
+          "url": "https://books.1guru.in/evs/ta2018101215393184404EVSNCERTChapter3.pdf"
+        },
+        {
+          "name": " The Story of Amrita",
+          "id": "4",
+          "url": "https://books.1guru.in/evs/ta2018101215393184114EVSNCERTChapter4.pdf"
+        },
+        {
+          "name": " Anita and the Honeybees",
+          "id": "5",
+          "url": "https://books.1guru.in/evs/ta2018101215393183764EVSNCERTChapter5.pdf"
+        },
+        {
+          "name": " Omana’s Journey",
+          "id": "6",
+          "url": "https://books.1guru.in/evs/ta2018101215393183294EVSNCERTChapter6.pdf"
+        },
+        {
+          "name": " From the Window",
+          "id": "7",
+          "url": "https://books.1guru.in/evs/ta2018101215393182934EVSNCERTChapter7.pdf"
+        },
+        {
+          "name": " Reaching Grandmother’s House",
+          "id": "8",
+          "url": "https://books.1guru.in/evs/ta2018101215393182534EVSNCERTChapter8.pdf"
+        },
+        {
+          "name": " Changing Families",
+          "id": "9",
+          "url": "https://books.1guru.in/evs/ta2018101215393182204EVSNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class4",
+  "subject": "evs-hindi",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " हु तू तू ",
+          "id": "10",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393196804EVSNCERTHindiMediumChapter10.pdf"
+        },
+        {
+          "name": " फुलवारी",
+          "id": "11",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393196404EVSNCERTHindiMediumChapter11.pdf"
+        },
+        {
+          "name": " कैसे-कैसे बदले घर",
+          "id": "12",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393196104EVSNCERTHindiMediumChapter12.pdf"
+        },
+        {
+          "name": " पहाड़ों से समुंदर तक",
+          "id": "13",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393192324EVSNCERTHindiMediumChapter13.pdf"
+        },
+        {
+          "name": " बसवा का खेत",
+          "id": "14",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393191994EVSNCERTHindiMediumChapter14.pdf"
+        },
+        {
+          "name": " मंडी से घर तक",
+          "id": "15",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393191704EVSNCERTHindiMediumChapter15.pdf"
+        },
+        {
+          "name": " चूँ-चूँ करती आई चिड़िया",
+          "id": "16",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393191394EVSNCERTHindiMediumChapter16.pdf"
+        },
+        {
+          "name": " नंदिता मुंबई में",
+          "id": "17",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393191114EVSNCERTHindiMediumChapter17.pdf"
+        },
+        {
+          "name": " पानी कहीं ज़्यादा",
+          "id": "18",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393190824EVSNCERTHindiMediumChapter18.pdf"
+        },
+        {
+          "name": " जड़ों का जाल",
+          "id": "19",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393190534EVSNCERTHindiMediumChapter19.pdf"
+        },
+        {
+          "name": " चलों",
+          "id": "1",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393201744EVSNCERTHindiMediumChapter1.pdf"
+        },
+        {
+          "name": " मिलकर खाएँ",
+          "id": "20",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393190214EVSNCERTHindiMediumChapter20.pdf"
+        },
+        {
+          "name": " खाना-खिलाना",
+          "id": "21",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393189494EVSNCERTHindiMediumChapter21.pdf"
+        },
+        {
+          "name": " दुनिया मेरे घर में",
+          "id": "22",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393189184EVSNCERTHindiMediumChapter22.pdf"
+        },
+        {
+          "name": " पोचमपल्ली",
+          "id": "23",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393188894EVSNCERTHindiMediumChapter23.pdf"
+        },
+        {
+          "name": " दूर देश की बात",
+          "id": "24",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393188604EVSNCERTHindiMediumChapter24.pdf"
+        },
+        {
+          "name": " चटपटी पहेलियाँ!",
+          "id": "25",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393188244EVSNCERTHindiMediumChapter25.pdf"
+        },
+        {
+          "name": " फ़ौजी वहीदा",
+          "id": "26",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393187584EVSNCERTHindiMediumChapter26.pdf"
+        },
+        {
+          "name": " कोशिश हुई कामयाब",
+          "id": "27",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393187284EVSNCERTHindiMediumChapter27.pdf"
+        },
+        {
+          "name": " कान-कान में",
+          "id": "2",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393201014EVSNCERTHindiMediumChapter2.pdf"
+        },
+        {
+          "name": " नंदू हाथी",
+          "id": "3",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393200584EVSNCERTHindiMediumChapter3.pdf"
+        },
+        {
+          "name": " अमृता की कहानी",
+          "id": "4",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393199944EVSNCERTHindiMediumChapter4.pdf"
+        },
+        {
+          "name": " अनीता की मधुमक्खियाँ",
+          "id": "5",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393199474EVSNCERTHindiMediumChapter5.pdf"
+        },
+        {
+          "name": " ओमना का सफ़र",
+          "id": "6",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393198794EVSNCERTHindiMediumChapter6.pdf"
+        },
+        {
+          "name": " खिड़की से",
+          "id": "7",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393197764EVSNCERTHindiMediumChapter7.pdf"
+        },
+        {
+          "name": " नानी के घर तक",
+          "id": "8",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393197484EVSNCERTHindiMediumChapter8.pdf"
+        },
+        {
+          "name": " बदलते परिवार",
+          "id": "9",
+          "url": "https://hindi-books.1guru.in/evs/ta2018101215393197134EVSNCERTHindiMediumChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class4",
+  "subject": "english",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " The Naughty Boy",
+          "id": "10",
+          "url": "https://books.1guru.in/+english/ta2018101215393166824EnglishNCERTChapter10.pdf"
+        },
+        {
+          "name": " Wake Up!",
+          "id": "1",
+          "url": "https://books.1guru.in/+english/ta2018101215393170824EnglishNCERTChapter1.pdf"
+        },
+        {
+          "name": " Noses",
+          "id": "2",
+          "url": "https://books.1guru.in/+english/ta2018101215393170504EnglishNCERTChapter2.pdf"
+        },
+        {
+          "name": " Run!",
+          "id": "3",
+          "url": "https://books.1guru.in/+english/ta2018101215393169074EnglishNCERTChapter3.pdf"
+        },
+        {
+          "name": " Why?",
+          "id": "4",
+          "url": "https://books.1guru.in/+english/ta2018101215393168784EnglishNCERTChapter4.pdf"
+        },
+        {
+          "name": " Don’t be Afraid of the Dark",
+          "id": "5",
+          "url": "https://books.1guru.in/+english/ta2018101215393168464EnglishNCERTChapter5.pdf"
+        },
+        {
+          "name": " The Donkey",
+          "id": "6",
+          "url": "https://books.1guru.in/+english/ta2018101215393168184EnglishNCERTChapter6.pdf"
+        },
+        {
+          "name": " Hiawatha",
+          "id": "7",
+          "url": "https://books.1guru.in/+english/ta2018101215393167804EnglishNCERTChapter7.pdf"
+        },
+        {
+          "name": " A Watering Rhyme",
+          "id": "8",
+          "url": "https://books.1guru.in/+english/ta2018101215393167524EnglishNCERTChapter8.pdf"
+        },
+        {
+          "name": " Books",
+          "id": "9",
+          "url": "https://books.1guru.in/+english/ta2018101215393167214EnglishNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class4",
+  "subject": "hindi",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " थप्प रोटी थप्प दाल",
+          "id": "10",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393222824HindiNCERTChapter10.pdf"
+        },
+        {
+          "name": " पढ़क्कू की सूझ",
+          "id": "11",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393222524HindiNCERTChapter11.pdf"
+        },
+        {
+          "name": " सुनीता की पहिया कुर्सी",
+          "id": "12",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393222184HindiNCERTChapter12.pdf"
+        },
+        {
+          "name": " हुदहुद",
+          "id": "13",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393221894HindiNCERTChapter13.pdf"
+        },
+        {
+          "name": " मुफ़्त ही मुफ़्त",
+          "id": "14",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393221604HindiNCERTChapter14.pdf"
+        },
+        {
+          "name": " मन के भोले-भाले बादल",
+          "id": "1",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393225564HindiNCERTChapter1.pdf"
+        },
+        {
+          "name": " जैसा सवाल वैसा जवाब",
+          "id": "2",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393225314HindiNCERTChapter2.pdf"
+        },
+        {
+          "name": " किरमिच की गेंद",
+          "id": "3",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393224974HindiNCERTChapter3.pdf"
+        },
+        {
+          "name": " पापा जब बच्चे थे",
+          "id": "4",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393224644HindiNCERTChapter4.pdf"
+        },
+        {
+          "name": " दोस्त की पोशाक",
+          "id": "5",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393224354HindiNCERTChapter5.pdf"
+        },
+        {
+          "name": " नाव बनाओ नाव बनाओ",
+          "id": "6",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393224064HindiNCERTChapter6.pdf"
+        },
+        {
+          "name": " दान का हिसाब",
+          "id": "7",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393223744HindiNCERTChapter7.pdf"
+        },
+        {
+          "name": " कौन?",
+          "id": "8",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393223434HindiNCERTChapter8.pdf"
+        },
+        {
+          "name": " स्वतंत्रता की ओर",
+          "id": "9",
+          "url": "https://hindi-books.1guru.in/hindi/ta2018101215393223124HindiNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+{
+  "board": "cbse",
+  "language": "english",
+  "level": "class4",
+  "subject": "maths",
+  "books": [
+    {
+      "name": "book 1",
+      "chapters": [
+        {
+          "name": " Play with Patterns",
+          "id": "10",
+          "url": "https://books.1guru.in/maths/ta2018101215393208134MathsNCERTChapter10.pdf"
+        },
+        {
+          "name": " Tables and Shares",
+          "id": "11",
+          "url": "https://books.1guru.in/maths/ta2018101215393207854MathsNCERTChapter11.pdf"
+        },
+        {
+          "name": " How Heavy? How Light?",
+          "id": "12",
+          "url": "https://books.1guru.in/maths/ta2018101215393207564MathsNCERTChapter12.pdf"
+        },
+        {
+          "name": " Fields and Fences",
+          "id": "13",
+          "url": "https://books.1guru.in/maths/ta2018101215393207324MathsNCERTChapter13.pdf"
+        },
+        {
+          "name": " Smart Charts",
+          "id": "14",
+          "url": "https://books.1guru.in/maths/ta2018101215393206994MathsNCERTChapter14.pdf"
+        },
+        {
+          "name": " Building with Bricks",
+          "id": "1",
+          "url": "https://books.1guru.in/maths/ta2018101215393210924MathsNCERTChapter1.pdf"
+        },
+        {
+          "name": " Long and Short",
+          "id": "2",
+          "url": "https://books.1guru.in/maths/ta2018101215393210584MathsNCERTChapter2.pdf"
+        },
+        {
+          "name": " A Trip to Bhopal",
+          "id": "3",
+          "url": "https://books.1guru.in/maths/ta2018101215393210284MathsNCERTChapter3.pdf"
+        },
+        {
+          "name": " Tick-Tick-Tick",
+          "id": "4",
+          "url": "https://books.1guru.in/maths/ta2018101215393209944MathsNCERTChapter4.pdf"
+        },
+        {
+          "name": " The Way The World Looks",
+          "id": "5",
+          "url": "https://books.1guru.in/maths/ta2018101215393209614MathsNCERTChapter5.pdf"
+        },
+        {
+          "name": " The Junk Seller",
+          "id": "6",
+          "url": "https://books.1guru.in/maths/ta2018101215393209294MathsNCERTChapter6.pdf"
+        },
+        {
+          "name": " Jugs and Mugs",
+          "id": "7",
+          "url": "https://books.1guru.in/maths/ta2018101215393208974MathsNCERTChapter7.pdf"
+        },
+        {
+          "name": " Carts and Wheels",
+          "id": "8",
+          "url": "https://books.1guru.in/maths/ta2018101215393208694MathsNCERTChapter8.pdf"
+        },
+        {
+          "name": " Halves and Quarters",
+          "id": "9",
+          "url": "https://books.1guru.in/maths/ta2018101215393208464MathsNCERTChapter9.pdf"
+        }
+      ]
+    }
+  ]
+},
+]
