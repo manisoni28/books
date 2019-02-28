@@ -5118,5 +5118,1369 @@
         ]
       }
     ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class1",
+    "subject": "maths",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " पैटर्न",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388384571MathsNCERTHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " संख्याएँ",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388384961MathsNCERTHindiMediumChapter11.pdf"
+          },
+          {
+            "name": " मुद्रा",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388385281MathsNCERTHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " बताओ कितने",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388385591MathsNCERTHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " आकृतियाँ और स्थान",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388375081MathsNCERTHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " एक से नौ तक की संख्याएँ",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388375491MathsNCERTHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " जोड़",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388375751MathsNCERTHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " घटाव",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388376161MathsNCERTHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " दस से बीस तक की संख्याएँ",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388376551MathsNCERTHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " समय",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388376821MathsNCERTHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " माप",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388377121MathsNCERTHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " 21 से 50 तक की संख्याएँ",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388377501MathsNCERTHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " आंकड़ों का उपयोग",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/maths/ta2018100615388377851MathsNCERTHindiMediumChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class10",
+    "subject": "maths",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " वृत",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974755910MathsNcertchapter10HindiMedium.pdf"
+          },
+          {
+            "name": " रचनाएँ",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974753010MathsNcertchapter11HindiMedium.pdf"
+          },
+          {
+            "name": " वृत्तों से संबंधित क्षेत्रफल",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974750010MathsNcertchapter12HindiMedium.pdf"
+          },
+          {
+            "name": " पृष्ठीय क्षेत्रफल और आयतन",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974747210MathsNcertchapter13HindiMedium.pdf"
+          },
+          {
+            "name": " सांख्यिकी",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974744210MathsNcertchapter14HindiMedium.pdf"
+          },
+          {
+            "name": " प्रायिकता",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974741610MathsNcertchapter15HindiMedium.pdf"
+          },
+          {
+            "name": " वास्तविक संख्याएँ",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974790410MathsNcertchapter1HindiMedium.pdf"
+          },
+          {
+            "name": " बहुपद",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974787010MathsNcertchapter2HindiMedium.pdf"
+          },
+          {
+            "name": " दो चर वाले रैखिक समीकरण युग्म",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974783910MathsNcertchapter3HindiMedium.pdf"
+          },
+          {
+            "name": " द्विघात समीकरण",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974780710MathsNcertchapter4HindiMedium.pdf"
+          },
+          {
+            "name": " समांतर श्रेढियाँ",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974775810MathsNcertchapter5HindiMedium.pdf"
+          },
+          {
+            "name": " त्रिभुज",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974772910MathsNcertchapter6HindiMedium.pdf"
+          },
+          {
+            "name": " निर्देशांक ज्यामिति",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974765510MathsNcertchapter7HindiMedium.pdf"
+          },
+          {
+            "name": " त्रिकोणमिति का परिचय",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974762310MathsNcertchapter8HindiMedium.pdf"
+          },
+          {
+            "name": " त्रिकोणमिति के कुछ अनुप्रयोग",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/maths/ta20181017153974759310MathsNcertchapter9HindiMedium.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class10",
+    "subject": "science",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " प्रकाश – परावर्तन तथा अपवर्तन",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986436610ScienceNcertHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " मानव नेत्र तथा रंगबिरंगा संसार",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986433310ScienceNcertHindiMediumChapter11.pdf"
+          },
+          {
+            "name": " विधुत",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986430410ScienceNcertHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " विधुत धरा के चुंबकीय प्रभाव",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986427610ScienceNcertHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " ऊर्जा के स्रोत",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986424610ScienceNcertHindiMediumChapter14.pdf"
+          },
+          {
+            "name": " हमारा पर्यावरण",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986421210ScienceNcertHindiMediumChapter15.pdf"
+          },
+          {
+            "name": " प्राकृतिक संसाधनों का प्रबंधन",
+            "id": "16",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986418210ScienceNcertHindiMediumChapter16.pdf"
+          },
+          {
+            "name": " रासायनिक अभिक्रियाएं एवं समीकरण",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986465410ScienceNcertHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " अम्ल",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986462310ScienceNcertHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " धातु एवं अधातु",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986459310ScienceNcertHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " कार्बन एवं उसके यौगिक",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986455310ScienceNcertHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " तत्वों का आवर्त वर्गीकरण",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986452110ScienceNcertHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " जैव प्रक्रम",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986449310ScienceNcertHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " नियंत्रण एवं समन्वय",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986446110ScienceNcertHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " जीव जनन कैसे करते हैं?",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986443110ScienceNcertHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " आनुवंशिकता एवं जैव विकास",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/science/ta20181018153986440010ScienceNcertHindiMediumChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class10",
+    "subject": "social-science",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " विकास",
+            "id": "E1",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975022510EconomicsNcertHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " भारतीय अर्थव्यवस्था के क्षेत्रक",
+            "id": "E2",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975019210EconomicsNcertHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " मुद्रा और साख",
+            "id": "E3",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975016210EconomicsNcertHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " वैश्वीकरण और भारतीय अर्थव्यवस्था",
+            "id": "E4",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975013110EconomicsNcertHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " उपभोक्ता अधिकार",
+            "id": "E5",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975009010EconomicsNcertHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " संसाधन और विकास",
+            "id": "G1",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975083510GeographyNcertHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " वन और वन्यजीव संसाधन",
+            "id": "G2",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975080310GeographyNcertHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " जल संसाधन",
+            "id": "G3",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975076510GeographyNcertHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " कृषि",
+            "id": "G4",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975073710GeographyNcertHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " खनिज और ऊर्जा संसाधन",
+            "id": "G5",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975070810GeographyNcertHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " विनिर्माण उद्योग",
+            "id": "G6",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975067410GeographyNcertHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+            "id": "G7",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975064610GeographyNcertHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " यूरोप में राष्ट्रवाद का उदय",
+            "id": "H1",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975112510HistoryNcertHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " इंडो-चाइना में राष्ट्रवादी आंदोलन",
+            "id": "H2",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975108710HistoryNcertHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " भारत में राष्ट्रवाद",
+            "id": "H3",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975105810HistoryNcertHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " भूमंडलीकृत विश्व का बनना",
+            "id": "H4",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975102810HistoryNcertHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " औद्योगिकीकरण की युग",
+            "id": "H5",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975099710HistoryNcertHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " काम",
+            "id": "H6",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975094810HistoryNcertHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " मुद्रण संस्कृति और आधुनिक दुनिया",
+            "id": "H7",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975091710HistoryNcertHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " उपन्यास",
+            "id": "H8",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975088610HistoryNcertHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " सत्ता की साझेदारी",
+            "id": "P1",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975061210PoliticalScienceNcertHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " संघवाद",
+            "id": "P2",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975058310PoliticalScienceNcertHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " लोकतंत्र और विविधता",
+            "id": "P3",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975054710PoliticalScienceNcertHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " जाति",
+            "id": "P4",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975051410PoliticalScienceNcertHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " जन-संघर्ष और आंदोलन",
+            "id": "P5",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975048110PoliticalScienceNcertHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " राजनीतिक दल",
+            "id": "P6",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975044410PoliticalScienceNcertHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " लोकतंत्र के परिणाम",
+            "id": "P7",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975041010PoliticalScienceNcertHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " लोकतंत्र की चुनौतियाँ",
+            "id": "P8",
+            "url": "https://hindi-books.1guru.in/social-science/ta20181017153975026310PoliticalScienceNcertHindiMediumChapter8.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class10",
+    "subject": "hindi",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " प्रेमचंद – बड़े भाई साहब",
+            "id": "गद्य 1",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975464810HindiNcertSparshGaddchapter1.pdf"
+          },
+          {
+            "name": " सीताराम सेकसरिया – डायरी का एक पन्ना",
+            "id": "गद्य 2",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975461610HindiNcertSparshGaddchapter2.pdf"
+          },
+          {
+            "name": " लीलाधर मंडलोई – तताँरा-वामिरो कथा",
+            "id": "गद्य 3",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975458410HindiNcertSparshGaddchapter3.pdf"
+          },
+          {
+            "name": " प्रहलाद अग्रवाल – तीसरी कसम के शिल्पकार शै",
+            "id": "गद्य 4",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975452310HindiNcertSparshGaddchapter4.pdf"
+          },
+          {
+            "name": " अंतोन चेखव – गिरगिट",
+            "id": "गद्य 5",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975447810HindiNcertSparshGaddchapter5.pdf"
+          },
+          {
+            "name": " निंदा फ़ाजली – अब कहाँ दूसरे के दुःख से दुख",
+            "id": "गद्य 6",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975444310HindiNcertSparshGaddchapter6.pdf"
+          },
+          {
+            "name": " रवींद्र केलेकर – पतझर में टूटी पत्तियाँ",
+            "id": "गद्य 7",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975441010HindiNcertSparshGaddchapter7.pdf"
+          },
+          {
+            "name": " हबीब तनवीर – कारतूस",
+            "id": "गद्य 8",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975437510HindiNcertSparshGaddchapter8.pdf"
+          },
+          {
+            "name": " कबीर – साखी",
+            "id": "पद्य 1",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975494810HindiNcertSparshPaddchapter1.pdf"
+          },
+          {
+            "name": " मीरा – पद",
+            "id": "पद्य 2",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975491510HindiNcertSparshPaddchapter2.pdf"
+          },
+          {
+            "name": " बिहारी – दोहे",
+            "id": "पद्य 3",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975488110HindiNcertSparshPaddchapter3.pdf"
+          },
+          {
+            "name": " मैथिलीशरण गुप्त – मनुष्यता",
+            "id": "पद्य 4",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975485010HindiNcertSparshPaddchapter4.pdf"
+          },
+          {
+            "name": " सुमित्रानंदन पंत – पर्वत प्रदेश में पावस",
+            "id": "पद्य 5",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975481910HindiNcertSparshPaddchapter5.pdf"
+          },
+          {
+            "name": " महादेवी वर्मा – मधुर – मधुर मेरे दीपक जल",
+            "id": "पद्य 6",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975478710HindiNcertSparshPaddchapter6.pdf"
+          },
+          {
+            "name": " वीरेन डंगवाल – तोप",
+            "id": "पद्य 7",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975475210HindiNcertSparshPaddchapter7.pdf"
+          },
+          {
+            "name": " कैफ़ी आज़मी – कर चले हम फ़िदा",
+            "id": "पद्य 8",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975471410HindiNcertSparshPaddchapter8.pdf"
+          },
+          {
+            "name": " रविंद्रनाथ ठाकुर – आत्मत्राण",
+            "id": "पद्य 9",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975468210HindiNcertSparshPaddchapter9.pdf"
+          }
+        ]
+      },
+      {
+        "name": "book2",
+        "chapters": [
+          {
+            "name": " स्वयं प्रकाश",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975187010HindiNCERTKshitijChapter10.pdf"
+          },
+          {
+            "name": " रामवृक्ष बेनीपुरी",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975184110HindiNCERTKshitijChapter11.pdf"
+          },
+          {
+            "name": " यशपाल",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975181010HindiNCERTKshitijChapter12.pdf"
+          },
+          {
+            "name": " सर्वेश्वर दयाल सक्सेना",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975178310HindiNCERTKshitijChapter13.pdf"
+          },
+          {
+            "name": " मन्नू भंडारी",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975174410HindiNCERTKshitijChapter14.pdf"
+          },
+          {
+            "name": " महावीर प्रसाद द्विवेदी",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975171810HindiNCERTKshitijChapter15.pdf"
+          },
+          {
+            "name": " यतीन्द्र मिश्रा",
+            "id": "16",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975169010HindiNCERTKshitijChapter16.pdf"
+          },
+          {
+            "name": " भदंत आनंद कौसल्यायन",
+            "id": "17",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975166410HindiNCERTKshitijChapter17.pdf"
+          },
+          {
+            "name": " सूरदास",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975214410HindiNCERTKshitijChapter1.pdf"
+          },
+          {
+            "name": " तुलसीदास",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975211110HindiNCERTKshitijChapter2.pdf"
+          },
+          {
+            "name": " देव",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975208010HindiNCERTKshitijChapter3.pdf"
+          },
+          {
+            "name": " जयशंकर प्रसाद",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975204910HindiNCERTKshitijChapter4.pdf"
+          },
+          {
+            "name": " सूर्यकांत त्रिपाठी ‘निराला’",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975201910HindiNCERTKshitijChapter5.pdf"
+          },
+          {
+            "name": " नागार्जुन",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975199010HindiNCERTKshitijChapter6.pdf"
+          },
+          {
+            "name": " गिरिजा कुमार माथुर",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975196410HindiNCERTKshitijChapter7.pdf"
+          },
+          {
+            "name": " ऋतुराज",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975193710HindiNCERTKshitijChapter8.pdf"
+          },
+          {
+            "name": " मंगलेश डबराल",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975190910HindiNCERTKshitijChapter9.pdf"
+          }
+        ]
+      },
+      {
+        "name": "book3",
+        "chapters": [
+          {
+            "name": " माता का अँचल",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975156610HindiNCERTKritikaChapter1.pdf"
+          },
+          {
+            "name": " जॉर्ज पंचम की नाक",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975153410HindiNCERTKritikaChapter2.pdf"
+          },
+          {
+            "name": " साना – साना हाथ जोड़ि…",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975150510HindiNCERTKritikaChapter3.pdf"
+          },
+          {
+            "name": " एही ठैयाँ झुलनी हेरानी हो रामा!",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975147810HindiNCERTKritikaChapter4.pdf"
+          },
+          {
+            "name": " मैं क्यों लिखता हूँ?",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/hindi/ta20181017153975144910HindiNCERTKritikaChapter5.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class11",
+    "subject": "maths",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " सरल रेखाएँ",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000585511MathsNCERTHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " शंकु परिच्छेद",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000582511MathsNCERTHindiMediumChapter11.pdf"
+          },
+          {
+            "name": " त्रिविमीय ज्यामिति का परिचय",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000579311MathsNCERTHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " सीमा और अवकलज",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000568111MathsNCERTHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " गणितीय विवेचन",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000565311MathsNCERTHindiMediumChapter14.pdf"
+          },
+          {
+            "name": " सांख्यिकी",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000562211MathsNCERTHindiMediumChapter15.pdf"
+          },
+          {
+            "name": " प्रायिकता",
+            "id": "16",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000559211MathsNCERTHindiMediumChapter16.pdf"
+          },
+          {
+            "name": " समुच्चय",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000614111MathsNCERTHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " संबंध एवं फलन",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000611411MathsNCERTHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " त्रिकोणमितीय फलन",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000608311MathsNCERTHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " गणितीय आगमन का सिद्धांत",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000604811MathsNCERTHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " सम्मिश्र संख्याएँ और द्विघातीय समीकरण",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000601711MathsNCERTHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " रैखिक असामिकाएँ",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000598211MathsNCERTHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " क्रमचय और संचय",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000595211MathsNCERTHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " द्विपद प्रमेय",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000592311MathsNCERTHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " अनुक्रम तथा श्रेणी",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000589011MathsNCERTHindiMediumChapter9.pdf"
+          },
+          {
+            "name": " उत्तरमाला",
+            "id": "17",
+            "url": "https://hindi-books.1guru.in/maths/ta20181020154000556311MathsNCERTHindiMediumAnswers.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class11",
+    "subject": "physics",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " तरलों के यांत्रिकी गुण",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017938811PhysicsNCERTHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " द्रव्य के तापीय गुण",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017935411PhysicsNCERTHindiMediumChapter11.pdf"
+          },
+          {
+            "name": " उष्मागतिकी",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017932611PhysicsNCERTHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " अणुगति सिद्धांत",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017929511PhysicsNCERTHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " भाग 1",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017926411PhysicsNCERTHindiMediumChapter141.pdf"
+          },
+          {
+            "name": " भाग 2",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017923211PhysicsNCERTHindiMediumChapter142.pdf"
+          },
+          {
+            "name": " किरण प्रकाशिकी एवं प्रकाशिक यंत्र (New for 201",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017918211PhysicsNCERTHindiMediumChapter15.pdf"
+          },
+          {
+            "name": " भौतिक जगत",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017966111PhysicsNCERTHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " मात्रक और मापन",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017963311PhysicsNCERTHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " सरल रेखा में गति",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017960311PhysicsNCERTHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " समतल में गति",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017957411PhysicsNCERTHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " गति के नियम",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017954311PhysicsNCERTHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " कार्य",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017951211PhysicsNCERTHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " कणों के निकाय तथा घूर्णी गति",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017948411PhysicsNCERTHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " गुरुत्वाकर्षण",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017944911PhysicsNCERTHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " ठोसों के यांत्रिक गुण",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/physics/ta20181022154017941911PhysicsNCERTHindiMediumChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class11",
+    "subject": "chemistry",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " s – बलॉक तत्व",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018308711ChemistryNCERTHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " भाग 1",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018305611ChemistryNCERTHindiMediumChapter111.pdf"
+          },
+          {
+            "name": " भाग 2",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018301011ChemistryNCERTHindiMediumChapter112.pdf"
+          },
+          {
+            "name": " कार्बनिक रसायन",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018420111ChemistryNCERTHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " हाइड्रोकार्बन",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018272511ChemistryNCERTHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " पर्यावरणीय रसायन",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018269211ChemistryNCERTHindiMediumChapter14.pdf"
+          },
+          {
+            "name": " रसायन विज्ञान की कुछ मूल अवधारणाएँ",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018339811ChemistryNCERTHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " परमाणु की संरचना",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018336811ChemistryNCERTHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " तत्वों का वर्गीकरण एवं गुणधर्मों में आवर्तिता",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018333611ChemistryNCERTHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " रासायनिक आबंधन तथा आण्विक संरचना",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018329811ChemistryNCERTHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " भाग 1",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018326111ChemistryNCERTHindiMediumChapter51.pdf"
+          },
+          {
+            "name": " भाग 2",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018413811ChemistryNCERTHindiMediumChapter52.pdf"
+          },
+          {
+            "name": " उष्मागतिकी",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018323011ChemistryNCERTHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " साम्यावस्था",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018319211ChemistryNCERTHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " अपचयोपचय अभिक्रियाएँ",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018315611ChemistryNCERTHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " हाइड्रोजन",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181022154018311911ChemistryNCERTHindiMediumChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class12",
+    "subject": "maths",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " सदिश बीजगणित",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836587712MathsNCERTHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " त्रि-विमीय ज्यामिती",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836590812MathsNCERTHindiMediumChapter11.pdf"
+          },
+          {
+            "name": " रैखिक प्रोग्रामन",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836593912MathsNCERTHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " प्रायिकता",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836597712MathsNCERTHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " संबंध एवं फलन",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836548712MathsNCERTHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " प्रतिलोम त्रिकोणमितीय फलन",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836552212MathsNCERTHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " आव्यूह",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836555612MathsNCERTHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " सारणिक",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836558912MathsNCERTHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " सांतत्य तथा अवकलनीयता",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836563012MathsNCERTHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " अवकलज के अनुप्रयोग",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836570112MathsNCERTHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " समाकलन",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836575512MathsNCERTHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " समाकलनों के अनुप्रयोग",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836578912MathsNCERTHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " अवकल समीकरण",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836582312MathsNCERTHindiMediumChapter9.pdf"
+          },
+          {
+            "name": " उत्तरमाला भाग 1",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836601612MathsNCERTHindiMediumAnswers1.pdf"
+          },
+          {
+            "name": " उत्तरमाला भाग 2",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/maths/ta20181001153836604412MathsNCERTHindiMediumAnswers2.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class12",
+    "subject": "biology",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " मानव कल्याण में सूक्ष्म जीव",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922836212BiologyNCERTHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " जैव प्रौद्योगिकी – सिद्धांत व प्रक्रम",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922832912BiologyNCERTHindiMediumChapter11.pdf"
+          },
+          {
+            "name": " जैव प्रौद्योगिकी एवं उसके उपयोग",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922829612BiologyNCERTHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " जीव और समष्टियाँ",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922826712BiologyNCERTHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " पारितंत्र",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922822812BiologyNCERTHindiMediumChapter14.pdf"
+          },
+          {
+            "name": " जीव विविधतता एवं संरक्षण",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922818812BiologyNCERTHindiMediumChapter15.pdf"
+          },
+          {
+            "name": " पर्यावरण के मुद्दे",
+            "id": "16",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922815112BiologyNCERTHindiMediumChapter16.pdf"
+          },
+          {
+            "name": " जीवों में जनन",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922866812BiologyNCERTHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " पुष्पी पादपों में लैंगिक जनन",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922863012BiologyNCERTHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " मानव जनन",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922859612BiologyNCERTHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " जनन स्वास्थ्य",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922856412BiologyNCERTHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " वंशागति तथा विविधता के सिद्धांत",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922852812BiologyNCERTHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " वंशागति के आणविक आधार",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922849312BiologyNCERTHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " विकास",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922846212BiologyNCERTHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " मानव स्वास्थ्य तथा रोग",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922843012BiologyNCERTHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " खाद्य उत्पादन में वृद्धि की कार्यनीति",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/biology/ta20181011153922839812BiologyNCERTHindiMediumChapter9.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class12",
+    "subject": "physics",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " तरंग – प्रकाशिकी",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836811612PhysicsNCERTHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " विकिरण तथा द्रव्य की द्वैत प्रकृति",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836815012PhysicsNCERTHindiMediumChapter11.pdf"
+          },
+          {
+            "name": " परमाणु",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836818112PhysicsNCERTHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " नाभिक",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836821312PhysicsNCERTHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " अर्धचालक – पदार्थ",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836825912PhysicsNCERTHindiMediumChapter14.pdf"
+          },
+          {
+            "name": " संचार व्यवस्था",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836829412PhysicsNCERTHindiMediumChapter15.pdf"
+          },
+          {
+            "name": " वैधुत आवेश तथा क्षेत्र",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836762612PhysicsNCERTHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " स्थिर वैधुत विभव तथा धारिता",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836766912PhysicsNCERTHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " विधुत धारा",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836781412PhysicsNCERTHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " गतिमान आवेश और चुंबकत्व",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836784612PhysicsNCERTHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " चुंबकत्व एवं द्रव्य",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836788612PhysicsNCERTHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " वैधुतचुंबकीय प्रेरण",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836798412PhysicsNCERTHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " प्रत्यावर्ती धारा",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836801512PhysicsNCERTHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " वैधुतचुंबकीय तरंगे",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836804912PhysicsNCERTHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " किरण प्रकाशिकी एवं प्रकाशिक यंत्र",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836808112PhysicsNCERTHindiMediumChapter9.pdf"
+          },
+          {
+            "name": " उत्तरमाला भाग 1",
+            "id": "16",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836833112PhysicsNCERTHindiMediumAnswers1.pdf"
+          },
+          {
+            "name": " उत्तरमाला भाग 2",
+            "id": "17",
+            "url": "https://hindi-books.1guru.in/physics/ta20181001153836836112PhysicsNCERTHindiMediumAnswers2.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class12",
+    "subject": "chemistry",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " हैलोएल्केन तथा हैलोएरीन",
+            "id": "10",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837146412ChemistryNCERTHindiMediumChapter10.pdf"
+          },
+          {
+            "name": " एल्कोहल",
+            "id": "11",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837149712ChemistryNCERTHindiMediumChapter11.pdf"
+          },
+          {
+            "name": " एल्डिहाइड",
+            "id": "12",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837153012ChemistryNCERTHindiMediumChapter12.pdf"
+          },
+          {
+            "name": " एमीन",
+            "id": "13",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837157312ChemistryNCERTHindiMediumChapter13.pdf"
+          },
+          {
+            "name": " जैव-अणु",
+            "id": "14",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837160612ChemistryNCERTHindiMediumChapter14.pdf"
+          },
+          {
+            "name": " बहुलक",
+            "id": "15",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837163512ChemistryNCERTHindiMediumChapter15.pdf"
+          },
+          {
+            "name": " दैनिक जीवन में रसायन",
+            "id": "16",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837166912ChemistryNCERTHindiMediumChapter16.pdf"
+          },
+          {
+            "name": " ठोस अवस्था (25 MB)",
+            "id": "1",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837112512ChemistryNCERTHindiMediumChapter1.pdf"
+          },
+          {
+            "name": " विलयन",
+            "id": "2",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837116012ChemistryNCERTHindiMediumChapter2.pdf"
+          },
+          {
+            "name": " वैधुतरसायन",
+            "id": "3",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837119612ChemistryNCERTHindiMediumChapter3.pdf"
+          },
+          {
+            "name": " रासायनिक बलगतिकी",
+            "id": "4",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837123112ChemistryNCERTHindiMediumChapter4.pdf"
+          },
+          {
+            "name": " पृष्ठ रसायन",
+            "id": "5",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837126412ChemistryNCERTHindiMediumChapter5.pdf"
+          },
+          {
+            "name": " तत्वों के निष्कर्षण के सिद्धांत एवं प्रक्रम",
+            "id": "6",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837130112ChemistryNCERTHindiMediumChapter6.pdf"
+          },
+          {
+            "name": " p- ब्लॉक के तत्व (12 MB)",
+            "id": "7",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837135312ChemistryNCERTHindiMediumChapter7.pdf"
+          },
+          {
+            "name": " d- एवं f- ब्लॉक के तत्व",
+            "id": "8",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837138712ChemistryNCERTHindiMediumChapter8.pdf"
+          },
+          {
+            "name": " उपसहसंयोजन यौगिक",
+            "id": "9",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837142812ChemistryNCERTHindiMediumChapter9.pdf"
+          },
+          {
+            "name": " उत्तरमाला भाग 1",
+            "id": "17",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837169812ChemistryNCERTHindiMediumAnswers1.pdf"
+          },
+          {
+            "name": " उत्तरमाला भाग 2",
+            "id": "18",
+            "url": "https://hindi-books.1guru.in/chemistry/ta20181001153837172612ChemistryNCERTHindiMediumAnswers2.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "board": "cbse",
+    "language": "hindi",
+    "level": "class12",
+    "subject": "accounting",
+    "books": [
+      {
+        "name": "book1",
+        "chapters": [
+          {
+            "name": " अलाभकारी संस्थाओं के लिए लेखांकन",
+            "id": "P1 1",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924156112AccountingHindiMediumPart1Chapter1.pdf"
+          },
+          {
+            "name": " साझेदारी लेखांकन - आधारभूत अवधारणाएँ",
+            "id": "P1 2",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924159812AccountingHindiMediumPart1Chapter2.pdf"
+          },
+          {
+            "name": " साझेदारी",
+            "id": "P1 3",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924163212AccountingHindiMediumPart1Chapter3.pdf"
+          },
+          {
+            "name": " साझेदारी",
+            "id": "P1 4",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924181312AccountingHindiMediumPart1Chapter4.pdf"
+          },
+          {
+            "name": " साझेदारी फर्म का विघटन",
+            "id": "P1 5",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924186612AccountingHindiMediumPart1Chapter5.pdf"
+          },
+          {
+            "name": " अंशपूंजी के लिए लेखांकन",
+            "id": "P2 1",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924191812AccountingHindiMediumPart2Chapter1.pdf"
+          },
+          {
+            "name": " ऋणपत्रों का निर्गम एवं मोचन",
+            "id": "P2 2",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924204112AccountingHindiMediumPart2Chapter2.pdf"
+          },
+          {
+            "name": " कंपनी के वित्तीय विवरण",
+            "id": "P2 3",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924217912AccountingHindiMediumPart2Chapter3.pdf"
+          },
+          {
+            "name": " वित्तीय विवरणों का विश्लेषण",
+            "id": "P2 4",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924223812AccountingHindiMediumPart2Chapter4.pdf"
+          },
+          {
+            "name": " लेखांकन अनुपात",
+            "id": "P2 5",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924227512AccountingHindiMediumPart2Chapter5.pdf"
+          },
+          {
+            "name": " रोकड़ प्रवाह विवरण",
+            "id": "P2 6",
+            "url": "https://hindi-books.1guru.in/accounting/ta20181011153924231512AccountingHindiMediumPart2Chapter6.pdf"
+          }
+        ]
+      }
+    ]
   }
 ]
