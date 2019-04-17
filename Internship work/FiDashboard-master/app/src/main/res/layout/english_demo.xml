@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.example.anggarisky.fidashboard.utils.BlinkingLoader
+        android:id="@+id/dotLoading1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:auto_start="true"
+        android:layout_gravity="center"
+        app:dot_blinkingColor="@color/Orange"
+        app:dot_neutralColor="@color/light_Orange"
+        app:dot_num_dots="4"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:id="@+id/recyclerViewDemo"
+        android:layout_height="match_parent" />
+
+</FrameLayout>
